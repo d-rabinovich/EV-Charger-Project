@@ -1,886 +1,178 @@
 ,Unnamed: 0,Station,Address,lat,lon,zipcode,Geo_FIPS,concentrated_disadvantage,commute_time,cars_per_home,median_household_income
-0,0,AUI-10372,"2316 W Martin Luther King Jr Blvd, Los Angeles, CA",34.0107197,-118.3188814,90008,6037234000,"746    0.149361
-Name: concentrated_disadvantage, dtype: float64","746    34.0
-Name: commute_time, dtype: float64","746    0.642857
-Name: cars_per_home, dtype: float64","746    56708.0
-Name: median_household_income, dtype: float64"
-1,1,AUI-10263,"1231 S Hill St, Los Angeles, CA",34.0385137,-118.26189,90015-3018,6037207900,"546   -0.116582
-Name: concentrated_disadvantage, dtype: float64","546    29.0
-Name: commute_time, dtype: float64","546    0.094404
-Name: cars_per_home, dtype: float64","546    88800.0
-Name: median_household_income, dtype: float64"
-2,2,AUI-10254,"942 S Crocker St, Los Angeles, CA",34.0351995,-118.2499719,90021,6037226002,"702    1.207065
-Name: concentrated_disadvantage, dtype: float64","702    32.0
-Name: commute_time, dtype: float64","702    0.067153
-Name: cars_per_home, dtype: float64","702    27632.0
-Name: median_household_income, dtype: float64"
-3,3,AUI-10265,"5764 S Vermont Ave, Los Angeles, CA",33.9897875,-118.2911317,90037,6037232700,"744    1.199627
-Name: concentrated_disadvantage, dtype: float64","744    35.0
-Name: commute_time, dtype: float64","744    0.845974
-Name: cars_per_home, dtype: float64","744    37067.0
-Name: median_household_income, dtype: float64"
-4,4,AUI-10218,"7150 N Shoup Ave, Los Angeles, CA",34.200029,-118.614541,91303,6037134303,"277   -0.201625
-Name: concentrated_disadvantage, dtype: float64","277    31.0
-Name: commute_time, dtype: float64","277    0.982804
-Name: cars_per_home, dtype: float64","277    88526.0
-Name: median_household_income, dtype: float64"
-5,5,AUI-10241,"20771 W Sherman Way, Los Angeles, CA",34.2011999,-118.4531985,91401-2649,6037127220,"218    0.891944
-Name: concentrated_disadvantage, dtype: float64","218    33.0
-Name: commute_time, dtype: float64","218    0.31545
-Name: cars_per_home, dtype: float64","218    40665.0
-Name: median_household_income, dtype: float64"
-6,6,AUI-10201,"145 E Olympic Blvd, Los Angeles, CA",34.0401526,-118.2564209,90015,6037207900,"546   -0.116582
-Name: concentrated_disadvantage, dtype: float64","546    29.0
-Name: commute_time, dtype: float64","546    0.094404
-Name: cars_per_home, dtype: float64","546    88800.0
-Name: median_household_income, dtype: float64"
-7,7,AUI-10226,"1222 S Grand Ave, Los Angeles, CA",34.03928270000001,-118.2635887,90015,6037207900,"546   -0.116582
-Name: concentrated_disadvantage, dtype: float64","546    29.0
-Name: commute_time, dtype: float64","546    0.094404
-Name: cars_per_home, dtype: float64","546    88800.0
-Name: median_household_income, dtype: float64"
-8,8,AUI-10212,"1676 N Hobart Blvd, Los Angeles, CA",34.1013974,-118.3056538,90029-3737,6037190520,"420    0.726134
-Name: concentrated_disadvantage, dtype: float64","420    30.0
-Name: commute_time, dtype: float64","420    0.141079
-Name: cars_per_home, dtype: float64","420    35938.0
-Name: median_household_income, dtype: float64"
-9,9,AUI-10244,"5617 N Laurel Canyon Blvd, Los Angeles, CA",34.2259818,-118.3978384,91352,6037121010,"151   -0.015167
-Name: concentrated_disadvantage, dtype: float64","151    35.0
-Name: commute_time, dtype: float64","151    1.087462
-Name: cars_per_home, dtype: float64","151    64135.0
-Name: median_household_income, dtype: float64"
-10,10,AUI-10259,"4977 N Genesta Ave, Los Angeles, CA",34.16129300000001,-118.503322,91316-3402,6037139600,"324   -0.216853
-Name: concentrated_disadvantage, dtype: float64","324    36.0
-Name: commute_time, dtype: float64","324    0.414026
-Name: cars_per_home, dtype: float64","324    79023.0
-Name: median_household_income, dtype: float64"
-11,11,AUI-10228,"4882 N Libbit Ave, Los Angeles, CA",34.1580375,-118.48802179999998,91436,6037139701,"325   -1.115121
-Name: concentrated_disadvantage, dtype: float64","325    34.0
-Name: commute_time, dtype: float64","325    0.967127
-Name: cars_per_home, dtype: float64","325    144337.0
-Name: median_household_income, dtype: float64"
-12,12,AUI-10345,"5093 Alonzo Ave, Los Angeles, CA",34.16253270000001,-118.520257,91316,6037139502,"321   -0.039808
-Name: concentrated_disadvantage, dtype: float64","321    36.0
-Name: commute_time, dtype: float64","321    0.628743
-Name: cars_per_home, dtype: float64","321    69048.0
-Name: median_household_income, dtype: float64"
-13,13,AUI-10248,"20217 Prairie St, Los Angeles, CA",34.2392059,-118.5733855,91311,6037113303,"97   -0.40871
-Name: concentrated_disadvantage, dtype: float64","97    29.0
-Name: commute_time, dtype: float64","97    0.933932
-Name: cars_per_home, dtype: float64","97    83971.0
-Name: median_household_income, dtype: float64"
-14,14,AUI-10328,"25825 Normandie Ave, Los Angeles, CA",33.7893434,-118.2974987,90710-2805,6037294421,"957    1.084658
-Name: concentrated_disadvantage, dtype: float64","957    21.0
-Name: commute_time, dtype: float64","957    0.46466
-Name: cars_per_home, dtype: float64","957    41117.0
-Name: median_household_income, dtype: float64"
-15,15,AUI-10237,"25820 S Western Ave, Los Angeles, CA",33.78875120000001,-118.3074043,90717,6037293307,"950    0.020245
-Name: concentrated_disadvantage, dtype: float64","950    28.0
-Name: commute_time, dtype: float64","950    0.451613
-Name: cars_per_home, dtype: float64","950    50735.0
-Name: median_household_income, dtype: float64"
-16,16,AUI-10214,"1557 W 19th St, Los Angeles, CA",33.7270625,-118.3105717,90732,6037297000,"977   -0.483651
-Name: concentrated_disadvantage, dtype: float64","977    28.0
-Name: commute_time, dtype: float64","977    0.457887
-Name: cars_per_home, dtype: float64","977    100982.0
-Name: median_household_income, dtype: float64"
-17,17,AUI-10262,"12412 W Moorpark St, Los Angeles, CA",34.150277,-118.403516,91604,6037143500,"345    0.204317
-Name: concentrated_disadvantage, dtype: float64","345    33.0
-Name: commute_time, dtype: float64","345    0.283655
-Name: cars_per_home, dtype: float64","345    91563.0
-Name: median_household_income, dtype: float64"
-18,18,AUI-10224,"23743 W Roscoe Blvd, Los Angeles, CA",34.219302899999995,-118.644998,91304,6037113231,"90   -0.748597
-Name: concentrated_disadvantage, dtype: float64","90    33.0
-Name: commute_time, dtype: float64","90    1.005952
-Name: cars_per_home, dtype: float64","90    105208.0
-Name: median_household_income, dtype: float64"
-19,19,AUI-10269,"17729 Chatsworth Ave, Los Angeles, CA",34.265103700000004,-118.5208745,91344,6037111202,"78   -0.604733
-Name: concentrated_disadvantage, dtype: float64","78    30.0
-Name: commute_time, dtype: float64","78    1.098663
-Name: cars_per_home, dtype: float64","78    80521.0
-Name: median_household_income, dtype: float64"
-20,20,AUI-10205,"6710 Platt Ave, Los Angeles, CA",34.1925151,-118.6425347,91307,6037135203,"301   -0.723726
-Name: concentrated_disadvantage, dtype: float64","301    37.0
-Name: commute_time, dtype: float64","301    1.107082
-Name: cars_per_home, dtype: float64","301    115519.0
-Name: median_household_income, dtype: float64"
-21,21,AUI-10255,"290 N Mission Road, Los Angeles, CA",34.0506258,-118.2270707,90033,6037206032,"533    0.521226
-Name: concentrated_disadvantage, dtype: float64","533    33.0
-Name: commute_time, dtype: float64","533    0.198923
-Name: cars_per_home, dtype: float64","533    35706.0
-Name: median_household_income, dtype: float64"
-22,22,AUI-10268,"17832 Plummer Street, Los Angeles, CA",34.2428198,-118.5227509,91330-8449,6037115104,"105    0.34498
-Name: concentrated_disadvantage, dtype: float64","105    28.0
-Name: commute_time, dtype: float64","105    0.413024
-Name: cars_per_home, dtype: float64","105    51094.0
-Name: median_household_income, dtype: float64"
-23,23,AUI-10257,"20321 W Saticoy St, Los Angeles, CA",34.208268100000005,-118.4721919,91406,6037127300,"219   -0.414754
-Name: concentrated_disadvantage, dtype: float64","219    38.0
-Name: commute_time, dtype: float64","219    0.484074
-Name: cars_per_home, dtype: float64","219    53476.0
-Name: median_household_income, dtype: float64"
-24,24,AUI-10274,"651 W 1st, Los Angeles, CA",33.78102020000001,-118.2694377,90744,6037294810,"963    0.555968
-Name: concentrated_disadvantage, dtype: float64","963    25.0
-Name: commute_time, dtype: float64","963    0.633043
-Name: cars_per_home, dtype: float64","963    46667.0
-Name: median_household_income, dtype: float64"
-25,25,AUI-10245,"9200 Venice Blvd, Los Angeles, CA",34.0263805,-118.3933239,90034-4000,6037270100,"884   -0.644194
-Name: concentrated_disadvantage, dtype: float64","884    25.0
-Name: commute_time, dtype: float64","884    0.219259
-Name: cars_per_home, dtype: float64","884    66071.0
-Name: median_household_income, dtype: float64"
-26,26,AUI-10216,"4712 W Washington Blvd, Los Angeles, CA",34.0395664,-118.3420489,90016,6037218600,"654    0.314959
-Name: concentrated_disadvantage, dtype: float64","654    33.0
-Name: commute_time, dtype: float64","654    0.438506
-Name: cars_per_home, dtype: float64","654    56167.0
-Name: median_household_income, dtype: float64"
-27,27,AUI-10273,"13310 W Bluff Creek Dr, Los Angeles, CA",33.9681023,-118.4262923,90293,6037275602,"922   -0.497007
-Name: concentrated_disadvantage, dtype: float64","922    28.0
-Name: commute_time, dtype: float64","922    0.152542
-Name: cars_per_home, dtype: float64","922    129643.0
-Name: median_household_income, dtype: float64"
-28,28,AUI-10270,"9037 Loyola Blvd, Los Angeles, CA",33.957465899999995,-118.4177188,90045,6037276604,"930   -0.231137
-Name: concentrated_disadvantage, dtype: float64","930    29.0
-Name: commute_time, dtype: float64","930    0.034581
-Name: cars_per_home, dtype: float64","930    82182.0
-Name: median_household_income, dtype: float64"
-29,29,AUI-10232,"1724 W Century Blvd, Los Angeles, CA",33.9453286,-118.3073544,90047,6037238000,"778    0.953108
-Name: concentrated_disadvantage, dtype: float64","778    37.0
-Name: commute_time, dtype: float64","778    0.38657
-Name: cars_per_home, dtype: float64","778    63970.0
-Name: median_household_income, dtype: float64"
-30,30,AUI-10256,"8843 S St Andrews Pl, Los Angeles, CA",33.9573684,-118.3116296,90047,6037238400,"783    0.900464
-Name: concentrated_disadvantage, dtype: float64","783    30.0
-Name: commute_time, dtype: float64","783    0.52111
-Name: cars_per_home, dtype: float64","783    51420.0
-Name: median_household_income, dtype: float64"
-31,31,AUI-10230,"8923 S Western Ave, Los Angeles, CA",33.9556072,-118.3092868,90047,6037238400,"783    0.900464
-Name: concentrated_disadvantage, dtype: float64","783    30.0
-Name: commute_time, dtype: float64","783    0.52111
-Name: cars_per_home, dtype: float64","783    51420.0
-Name: median_household_income, dtype: float64"
-32,32,AUI-10234,"3145 S Vermont Ave, Los Angeles, CA",34.0262389,-118.291681,90089,6037221900,"684    2.297693
-Name: concentrated_disadvantage, dtype: float64","684    25.0
-Name: commute_time, dtype: float64","684    0.161327
-Name: cars_per_home, dtype: float64","684    12319.0
-Name: median_household_income, dtype: float64"
-33,33,AUI-10240,"3540 W 3rd St, Los Angeles, CA",34.0687591,-118.2931096,90020,6037211921,"594   -0.517109
-Name: concentrated_disadvantage, dtype: float64","594    31.0
-Name: commute_time, dtype: float64","594    0.069767
-Name: cars_per_home, dtype: float64","594    33407.0
-Name: median_household_income, dtype: float64"
-34,34,AUI-10239,"19054 N Kittridge St, Los Angeles, CA",34.1902212,-118.5485848,91335,6037132502,"265    1.040383
-Name: concentrated_disadvantage, dtype: float64","265    30.0
-Name: commute_time, dtype: float64","265    0.668645
-Name: cars_per_home, dtype: float64","265    59917.0
-Name: median_household_income, dtype: float64"
-35,35,AUI-10225,"23385 W Burbank Blvd, Los Angeles, CA",34.1722467,-118.6443485,91367,6037137302,"307   -0.990512
-Name: concentrated_disadvantage, dtype: float64","307    32.0
-Name: commute_time, dtype: float64","307    0.864094
-Name: cars_per_home, dtype: float64","307    134971.0
-Name: median_household_income, dtype: float64"
-36,36,AUI-10223,"18401-18435 Kittridge St, Los Angeles, CA",34.1902425,-118.5335015,91335,6037132700,"266   -0.704469
-Name: concentrated_disadvantage, dtype: float64","266    32.0
-Name: commute_time, dtype: float64","266    0.504176
-Name: cars_per_home, dtype: float64","266    68553.0
-Name: median_household_income, dtype: float64"
-37,37,AUI-10203,"6813 N Hayvenhurst Ave, Los Angeles, CA",34.166923,-118.4923732,91436,6037980024,"2336   -1.501106
-Name: concentrated_disadvantage, dtype: float64","2336    29.0
-Name: commute_time, dtype: float64","2336    1.531532
-Name: cars_per_home, dtype: float64","2336    124038.0
-Name: median_household_income, dtype: float64"
-38,38,AUI-10202,"6013 W Cadillac Ave, Los Angeles, CA",34.037672,-118.37471399999998,90034,6037270300,"886   -0.246376
-Name: concentrated_disadvantage, dtype: float64","886    26.0
-Name: commute_time, dtype: float64","886    0.479912
-Name: cars_per_home, dtype: float64","886    73375.0
-Name: median_household_income, dtype: float64"
-39,39,AUI-10253,"587 S Hobart Blvd, Los Angeles, CA",34.0638047,-118.3055059,90006,6037211802,"590   -0.589326
-Name: concentrated_disadvantage, dtype: float64","590    29.0
-Name: commute_time, dtype: float64","590    0.074887
-Name: cars_per_home, dtype: float64","590    40625.0
-Name: median_household_income, dtype: float64"
-40,40,AUI-10215,"609 W Alpine St, Los Angeles, CA",34.063369,-118.241175,90012,6037207103,"539    1.103828
-Name: concentrated_disadvantage, dtype: float64","539    26.0
-Name: commute_time, dtype: float64","539    0.149419
-Name: cars_per_home, dtype: float64","539    27292.0
-Name: median_household_income, dtype: float64"
-41,41,AUI-10219,"6438 N Fulton Ave, Los Angeles, CA",34.18744,-118.422412,91401,6037123520,"183    0.228808
-Name: concentrated_disadvantage, dtype: float64","183    32.0
-Name: commute_time, dtype: float64","183    0.491744
-Name: cars_per_home, dtype: float64","183    53098.0
-Name: median_household_income, dtype: float64"
-42,42,AUI-10242,"1109 South La Brea Ave, Los Angeles, CA",34.054634,-118.343996,90019,6037216200,"636   -0.272905
-Name: concentrated_disadvantage, dtype: float64","636    29.0
-Name: commute_time, dtype: float64","636    0.413823
-Name: cars_per_home, dtype: float64","636    95707.0
-Name: median_household_income, dtype: float64"
-43,43,AUI-10272,"7614 N Louise Ave, Los Angeles, CA",34.2088705,-118.5096412,91406,6037131100,"250   -0.671818
-Name: concentrated_disadvantage, dtype: float64","250    37.0
-Name: commute_time, dtype: float64","250    1.156114
-Name: cars_per_home, dtype: float64","250    68553.0
-Name: median_household_income, dtype: float64"
-44,44,AUI-10260,"9866 N De Soto Ave, Los Angeles, CA",34.249545,-118.5883922,91311,6037113303,"97   -0.40871
-Name: concentrated_disadvantage, dtype: float64","97    29.0
-Name: commute_time, dtype: float64","97    0.933932
-Name: cars_per_home, dtype: float64","97    83971.0
-Name: median_household_income, dtype: float64"
-45,45,AUI-10258,"11118 S Main St, Los Angeles, CA",33.93414600000001,-118.2737655,90061,6037241110,"810    0.577653
-Name: concentrated_disadvantage, dtype: float64","810    33.0
-Name: commute_time, dtype: float64","810    0.930663
-Name: cars_per_home, dtype: float64","810    43182.0
-Name: median_household_income, dtype: float64"
-46,46,AUI-10222,"3840 S Western Ave, Los Angeles, CA",34.016127000000004,-118.30875690000002,90062,6037231300,"729    0.967218
-Name: concentrated_disadvantage, dtype: float64","729    36.0
-Name: commute_time, dtype: float64","729    0.51085
-Name: cars_per_home, dtype: float64","729    46767.0
-Name: median_household_income, dtype: float64"
-47,47,AUI-10209,"11730 National Blvd, Los Angeles, CA",34.02189370000001,-118.4394675,90064,6037271500,"891   -0.680139
-Name: concentrated_disadvantage, dtype: float64","891    27.0
-Name: commute_time, dtype: float64","891    0.328337
-Name: cars_per_home, dtype: float64","891    94330.0
-Name: median_household_income, dtype: float64"
-48,48,AUI-10210,"11667 W Santa Monica Blvd, Los Angeles, CA",34.044141,-118.455429,90025,6037267501,"864   -0.418483
-Name: concentrated_disadvantage, dtype: float64","864    23.0
-Name: commute_time, dtype: float64","864    0.154174
-Name: cars_per_home, dtype: float64","864    79531.0
-Name: median_household_income, dtype: float64"
-49,49,AUI-10213,"10478 W Wilshire Blvd, Los Angeles, CA",34.0647503,-118.4310256,90024-2613,6037265700,"857   -0.135454
-Name: concentrated_disadvantage, dtype: float64","857    24.0
-Name: commute_time, dtype: float64","857    0.163423
-Name: cars_per_home, dtype: float64","857    80685.0
-Name: median_household_income, dtype: float64"
-50,50,AUI-10211,"8334 Lincoln Blvd, Los Angeles, CA",33.9618772,-118.4208079,90293,6037276500,"927   -0.313973
-Name: concentrated_disadvantage, dtype: float64","927    16.0
-Name: commute_time, dtype: float64","927    0.700803
-Name: cars_per_home, dtype: float64","927    88500.0
-Name: median_household_income, dtype: float64"
-51,51,AUI-10221,"12159 W Olympic Blvd, Los Angeles, CA",34.032711,-118.4550231,90064,6037267600,"866   -0.226933
-Name: concentrated_disadvantage, dtype: float64","866    25.0
-Name: commute_time, dtype: float64","866    0.513842
-Name: cars_per_home, dtype: float64","866    76250.0
-Name: median_household_income, dtype: float64"
-52,52,AUI-10217,"6646 W Sunset Blvd, Los Angeles, CA",34.0978525,-118.3348393,90028,6037190700,"421    0.720263
-Name: concentrated_disadvantage, dtype: float64","421    29.0
-Name: commute_time, dtype: float64","421    0.007514
-Name: cars_per_home, dtype: float64","421    37300.0
-Name: median_household_income, dtype: float64"
-53,53,AUI-10208,"12237 W Santa Monica Blvd, Los Angeles, CA",34.04001179999999,-118.46559340000002,90025,6037267402,"861   -0.186174
-Name: concentrated_disadvantage, dtype: float64","861    26.0
-Name: commute_time, dtype: float64","861    0.276268
-Name: cars_per_home, dtype: float64","861    74748.0
-Name: median_household_income, dtype: float64"
-54,54,AUI-10271,"11816 W Major St, Los Angeles, CA",33.984934,-118.4002577,90230,6037275603,"923   -0.65794
-Name: concentrated_disadvantage, dtype: float64","923    30.0
-Name: commute_time, dtype: float64","923    0.668021
-Name: cars_per_home, dtype: float64","923    79313.0
-Name: median_household_income, dtype: float64"
-55,55,AUI-10252,"11677 San Vicente Blvd, Los Angeles, CA",34.054247100000005,-118.4651397,90049,6037264103,"841    0.563986
-Name: concentrated_disadvantage, dtype: float64","841    26.0
-Name: commute_time, dtype: float64","841    0.020579
-Name: cars_per_home, dtype: float64","841    100160.0
-Name: median_household_income, dtype: float64"
-56,56,AUI-10250,"8624 S Wilton Pl, Los Angeles, CA",33.9591244,-118.314752,90047,6037238400,"783    0.900464
-Name: concentrated_disadvantage, dtype: float64","783    30.0
-Name: commute_time, dtype: float64","783    0.52111
-Name: cars_per_home, dtype: float64","783    51420.0
-Name: median_household_income, dtype: float64"
-57,57,AUI-10246,"1516 N North Spring St, Los Angeles, CA",34.06782860000001,-118.2305633,90012,6037206010,"530    1.265594
-Name: concentrated_disadvantage, dtype: float64","530    32.0
-Name: commute_time, dtype: float64","530    0.555211
-Name: cars_per_home, dtype: float64","530    38734.0
-Name: median_household_income, dtype: float64"
-58,58,AUI-10220,"616 W Washington Blvd, Los Angeles, CA",34.0347482,-118.2737356,90015,6037224020,"693    0.841632
-Name: concentrated_disadvantage, dtype: float64","693    34.0
-Name: commute_time, dtype: float64","693    0.042239
-Name: cars_per_home, dtype: float64","693    26493.0
-Name: median_household_income, dtype: float64"
-59,59,AUI-10243,"13076 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,"218    0.891944
-Name: concentrated_disadvantage, dtype: float64","218    33.0
-Name: commute_time, dtype: float64","218    0.31545
-Name: cars_per_home, dtype: float64","218    40665.0
-Name: median_household_income, dtype: float64"
-60,60,AUI-10204,"2843 S Flower St, Los Angeles, CA",34.0262014,-118.2760072,90007,6037224700,"700    2.052655
-Name: concentrated_disadvantage, dtype: float64","700    18.0
-Name: commute_time, dtype: float64","700    0.289557
-Name: cars_per_home, dtype: float64","700    10802.0
-Name: median_household_income, dtype: float64"
-61,61,AUI-10200,"182 S Alameda St, Los Angeles, CA",34.047486,-118.2378968,90012,6037206031,"532   -0.853608
-Name: concentrated_disadvantage, dtype: float64","532    29.0
-Name: commute_time, dtype: float64","532    0.169868
-Name: cars_per_home, dtype: float64","532    90590.0
-Name: median_household_income, dtype: float64"
-62,62,AUI-10227,"19135 W Victory Blvd, Los Angeles, CA",34.186682,-118.549965,91335,6037133100,"269   -0.537881
-Name: concentrated_disadvantage, dtype: float64","269    34.0
-Name: commute_time, dtype: float64","269    0.495777
-Name: cars_per_home, dtype: float64","269    51417.0
-Name: median_household_income, dtype: float64"
-63,63,AUI-10235,"12387 W Osborne St, Los Angeles, CA",34.2609217,-118.4031581,91331,6037104704,"32    0.521508
-Name: concentrated_disadvantage, dtype: float64","32    33.0
-Name: commute_time, dtype: float64","32    1.102643
-Name: cars_per_home, dtype: float64","32    48581.0
-Name: median_household_income, dtype: float64"
-64,64,AUI-10206,"6765 W Foothill Blvd, Los Angeles, CA",34.2479199,-118.2792176,91042,6037101220,"3   -0.134768
-Name: concentrated_disadvantage, dtype: float64","3    30.0
-Name: commute_time, dtype: float64","3    0.424185
-Name: cars_per_home, dtype: float64","3    41728.0
-Name: median_household_income, dtype: float64"
-65,65,AUI-10266,"12518 W Oxnard St, Los Angeles, CA",34.180236,-118.5055565,91316,6037980024,"2336   -1.501106
-Name: concentrated_disadvantage, dtype: float64","2336    29.0
-Name: commute_time, dtype: float64","2336    1.531532
-Name: cars_per_home, dtype: float64","2336    124038.0
-Name: median_household_income, dtype: float64"
-66,66,AUI-10264,"12728 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,"218    0.891944
-Name: concentrated_disadvantage, dtype: float64","218    33.0
-Name: commute_time, dtype: float64","218    0.31545
-Name: cars_per_home, dtype: float64","218    40665.0
-Name: median_household_income, dtype: float64"
-67,67,AUI-10229,"15596 W Roxford St, Los Angeles, CA",34.3116785,-118.47127240000002,91312,6037106510,"47   -0.836195
-Name: concentrated_disadvantage, dtype: float64","47    37.0
-Name: commute_time, dtype: float64","47    0.961111
-Name: cars_per_home, dtype: float64","47    91983.0
-Name: median_household_income, dtype: float64"
-68,68,AUI-10247,"13194 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,"218    0.891944
-Name: concentrated_disadvantage, dtype: float64","218    33.0
-Name: commute_time, dtype: float64","218    0.31545
-Name: cars_per_home, dtype: float64","218    40665.0
-Name: median_household_income, dtype: float64"
-69,69,AUI-10251,"1348 Abbot Kinney Blvd, Los Angeles, CA",33.990557,-118.46648229999998,90291,6037273502,"908    0.205068
-Name: concentrated_disadvantage, dtype: float64","908    31.0
-Name: commute_time, dtype: float64","908    0.172522
-Name: cars_per_home, dtype: float64","908    83304.0
-Name: median_household_income, dtype: float64"
-70,70,AUI-10267,"13629 W Sherman Way, Los Angeles, CA",34.2019429,-118.4512499,91401-2649,6037127220,"218    0.891944
-Name: concentrated_disadvantage, dtype: float64","218    33.0
-Name: commute_time, dtype: float64","218    0.31545
-Name: cars_per_home, dtype: float64","218    40665.0
-Name: median_household_income, dtype: float64"
-71,71,AUI-10249,"3773 Motor Ave, Los Angeles, CA",34.02090310000001,-118.4045579,90034-5702,6037269903,"879    0.170591
-Name: concentrated_disadvantage, dtype: float64","879    27.0
-Name: commute_time, dtype: float64","879    0.217498
-Name: cars_per_home, dtype: float64","879    59757.0
-Name: median_household_income, dtype: float64"
-72,72,AUI-10236,"840 Imperial Hwy, Los Angeles, CA",33.9308114,-118.2907242,90047-4899,6037241202,"813    1.354783
-Name: concentrated_disadvantage, dtype: float64","813    37.0
-Name: commute_time, dtype: float64","813    0.664082
-Name: cars_per_home, dtype: float64","813    40596.0
-Name: median_household_income, dtype: float64"
-73,73,AUI-10233,"4121 Valley Blvd, Los Angeles, CA",34.06483,-118.194347,90032,6037201402,"500    0.136664
-Name: concentrated_disadvantage, dtype: float64","500    33.0
-Name: commute_time, dtype: float64","500    1.225187
-Name: cars_per_home, dtype: float64","500    56698.0
-Name: median_household_income, dtype: float64"
-74,74,AUI-10231,"1862 Robertson Blvd, Los Angeles, CA",34.0452966,-118.3865051,90035-4232,6037269500,"874   -0.963175
-Name: concentrated_disadvantage, dtype: float64","874    24.0
-Name: commute_time, dtype: float64","874    0.648865
-Name: cars_per_home, dtype: float64","874    168224.0
-Name: median_household_income, dtype: float64"
-75,75,AUI-10238,"8931 Venice Blvd, Los Angeles, CA",34.0288024,-118.3898835,90034,6037270100,"884   -0.644194
-Name: concentrated_disadvantage, dtype: float64","884    25.0
-Name: commute_time, dtype: float64","884    0.219259
-Name: cars_per_home, dtype: float64","884    66071.0
-Name: median_household_income, dtype: float64"
-76,76,AUI-10289,"4940 Paso Robles Ave, Los Angeles, CA",34.1609594,-118.5018593,91316-3402,6037139600,"324   -0.216853
-Name: concentrated_disadvantage, dtype: float64","324    36.0
-Name: commute_time, dtype: float64","324    0.414026
-Name: cars_per_home, dtype: float64","324    79023.0
-Name: median_household_income, dtype: float64"
-77,77,AUI-10285,"10928 W Pico Blvd, Los Angeles, CA",34.03898820000001,-118.4303435,90064,6037267800,"868   -0.446018
-Name: concentrated_disadvantage, dtype: float64","868    22.0
-Name: commute_time, dtype: float64","868    0.179939
-Name: cars_per_home, dtype: float64","868    73049.0
-Name: median_household_income, dtype: float64"
-78,78,AUI-10291,"4647 Marmion Way, Los Angeles, CA",34.099644399999995,-118.2054051,90042,6037185100,"375    0.008001
-Name: concentrated_disadvantage, dtype: float64","375    35.0
-Name: commute_time, dtype: float64","375    0.880257
-Name: cars_per_home, dtype: float64","375    101103.0
-Name: median_household_income, dtype: float64"
-79,79,AUI-10293,"7224 Valjean Ave, Los Angeles, CA",34.2019408,-118.4857003,91406,6037127400,"220    0.057102
-Name: concentrated_disadvantage, dtype: float64","220    29.0
-Name: commute_time, dtype: float64","220    0.613062
-Name: cars_per_home, dtype: float64","220    48193.0
-Name: median_household_income, dtype: float64"
-80,80,AUI-10280,"16501 Otsego St, Los Angeles, CA",34.162938200000006,-118.4926688,91436,6037139701,"325   -1.115121
-Name: concentrated_disadvantage, dtype: float64","325    34.0
-Name: commute_time, dtype: float64","325    0.967127
-Name: cars_per_home, dtype: float64","325    144337.0
-Name: median_household_income, dtype: float64"
-81,81,AUI-10277,"4424 Wesley Ave., Los Angeles, CA",34.0029364,-118.2876652,90037,6037232110,"737    1.020357
-Name: concentrated_disadvantage, dtype: float64","737    37.0
-Name: commute_time, dtype: float64","737    0.336399
-Name: cars_per_home, dtype: float64","737    32266.0
-Name: median_household_income, dtype: float64"
-82,82,AUI-10279,"18235 South Figueroa St, Los Angeles, CA",33.8654075,-118.2819881,90248,6037291300,"942   -1.072548
-Name: concentrated_disadvantage, dtype: float64","942    31.0
-Name: commute_time, dtype: float64","942    1.072965
-Name: cars_per_home, dtype: float64","942    79034.0
-Name: median_household_income, dtype: float64"
-83,83,AUI-10284,"15321 S Figueroa St, Los Angeles, CA",33.8921709,-118.283233,90248,6037291210,"940    0.528936
-Name: concentrated_disadvantage, dtype: float64","940    26.0
-Name: commute_time, dtype: float64","940    0.626466
-Name: cars_per_home, dtype: float64","940    54297.0
-Name: median_household_income, dtype: float64"
-84,84,AUI-10283,"18401 Burbank Blvd, Los Angeles, CA",34.1720633,-118.5337705,91356,6037139401,"319   -0.455899
-Name: concentrated_disadvantage, dtype: float64","319    34.0
-Name: commute_time, dtype: float64","319    0.162928
-Name: cars_per_home, dtype: float64","319    63048.0
-Name: median_household_income, dtype: float64"
-85,85,AUI-10286,"7245 Canoga Ave, Los Angeles, CA",34.202333,-118.597861,91303,6037134522,"287    0.855632
-Name: concentrated_disadvantage, dtype: float64","287    30.0
-Name: commute_time, dtype: float64","287    0.284683
-Name: cars_per_home, dtype: float64","287    37003.0
-Name: median_household_income, dtype: float64"
-86,86,AUI-10326,"5962 San Vicente Blvd, Los Angeles, CA",34.0567988,-118.3615579,90019,6037216900,"642    0.026991
-Name: concentrated_disadvantage, dtype: float64","642    27.0
-Name: commute_time, dtype: float64","642    0.128368
-Name: cars_per_home, dtype: float64","642    69968.0
-Name: median_household_income, dtype: float64"
-87,87,AUI-10315,"14901 Rinaldi street, Los Angeles, CA",34.2793651,-118.45746,91345,6037109100,"66   -0.310911
-Name: concentrated_disadvantage, dtype: float64","66    28.0
-Name: commute_time, dtype: float64","66    1.319959
-Name: cars_per_home, dtype: float64","66    59792.0
-Name: median_household_income, dtype: float64"
-88,88,AUI-10282,"10455 W Magnolia Blvd, Los Angeles, CA",34.1651823,-118.3590241,91601,6037125310,"207    0.305203
-Name: concentrated_disadvantage, dtype: float64","207    28.0
-Name: commute_time, dtype: float64","207    0.32477
-Name: cars_per_home, dtype: float64","207    53022.0
-Name: median_household_income, dtype: float64"
-89,89,AUI-10308,"3117 Temple St., Los Angeles, CA",34.075306,-118.280769,90004-3624,6037195802,"471   -0.025966
-Name: concentrated_disadvantage, dtype: float64","471    32.0
-Name: commute_time, dtype: float64","471    0.526541
-Name: cars_per_home, dtype: float64","471    58981.0
-Name: median_household_income, dtype: float64"
-90,90,AUI-10314,"20124 Sherman Way, Los Angeles, CA",34.200408,-118.5718745,91371,6037134800,"290   -0.719065
-Name: concentrated_disadvantage, dtype: float64","290    34.0
-Name: commute_time, dtype: float64","290    1.2711
-Name: cars_per_home, dtype: float64","290    80109.0
-Name: median_household_income, dtype: float64"
-91,91,AUI-10309,"8245 Winnetka Ave, Los Angeles, CA",34.2198591,-118.5713659,91306-1630,6037134103,"273   -0.432793
-Name: concentrated_disadvantage, dtype: float64","273    30.0
-Name: commute_time, dtype: float64","273    0.800775
-Name: cars_per_home, dtype: float64","273    76250.0
-Name: median_household_income, dtype: float64"
-92,92,AUI-10288,"1747 S Barrington Ave, Los Angeles, CA",34.04013,-118.4534103,90025,6037267501,"864   -0.418483
-Name: concentrated_disadvantage, dtype: float64","864    23.0
-Name: commute_time, dtype: float64","864    0.154174
-Name: cars_per_home, dtype: float64","864    79531.0
-Name: median_household_income, dtype: float64"
-93,93,AUI-10298,"10416 Irene St, Los Angeles, CA",34.029833700000005,-118.4116094,90034,6037269904,"880   -0.183334
-Name: concentrated_disadvantage, dtype: float64","880    24.0
-Name: commute_time, dtype: float64","880    0.02045
-Name: cars_per_home, dtype: float64","880    68865.0
-Name: median_household_income, dtype: float64"
-94,94,AUI-10302,"722 Alameda St, Los Angeles, CA",34.032807899999995,-118.238363,90021,6037206031,"532   -0.853608
-Name: concentrated_disadvantage, dtype: float64","532    29.0
-Name: commute_time, dtype: float64","532    0.169868
-Name: cars_per_home, dtype: float64","532    90590.0
-Name: median_household_income, dtype: float64"
-95,95,AUI-10287,"2900 S Sepulveda Blvd, Los Angeles, CA",34.028657700000004,-118.4290429,90064-1508,6037271702,"894   -0.339431
-Name: concentrated_disadvantage, dtype: float64","894    26.0
-Name: commute_time, dtype: float64","894    0.182063
-Name: cars_per_home, dtype: float64","894    61063.0
-Name: median_household_income, dtype: float64"
-96,96,AUI-10321,"6510 Forest Lawn Drive, Los Angeles, CA",34.1463664,-118.33349309999998,91522,6037189701,"406   -0.399585
-Name: concentrated_disadvantage, dtype: float64","406    32.0
-Name: commute_time, dtype: float64","406    0.341724
-Name: cars_per_home, dtype: float64","406    91451.0
-Name: median_household_income, dtype: float64"
-97,97,AUI-10322,"11320 Laurel Canyon Blvd, Los Angeles, CA",34.2760489,-118.4498162,91340,6037109500,"70   -0.355977
-Name: concentrated_disadvantage, dtype: float64","70    27.0
-Name: commute_time, dtype: float64","70    1.045424
-Name: cars_per_home, dtype: float64","70    44118.0
-Name: median_household_income, dtype: float64"
-98,98,AUI-10317,"8309 Louise Ave, Los Angeles, CA",34.221544,-118.5102314,91325,6037115401,"110   -0.611058
-Name: concentrated_disadvantage, dtype: float64","110    31.0
-Name: commute_time, dtype: float64","110    0.617479
-Name: cars_per_home, dtype: float64","110    61483.0
-Name: median_household_income, dtype: float64"
-99,99,AUI-10310,"7537 Balboa Blvd, Los Angeles, CA",34.207544,-118.501288,91406-5441,6037131900,"258   -0.294849
-Name: concentrated_disadvantage, dtype: float64","258    30.0
-Name: commute_time, dtype: float64","258    0.965742
-Name: cars_per_home, dtype: float64","258    75255.0
-Name: median_household_income, dtype: float64"
-100,100,AUI-10313,"18099 Rinaldi street, Los Angeles, CA",34.278644799999995,-118.5274194,91344-1701,6037108103,"62   -1.505394
-Name: concentrated_disadvantage, dtype: float64","62    35.0
-Name: commute_time, dtype: float64","62    1.420737
-Name: cars_per_home, dtype: float64","62    159643.0
-Name: median_household_income, dtype: float64"
-101,101,AUI-10312,"21900 Plummer St, Los Angeles, CA",34.242412200000004,-118.6042211,91311,6037113237,"95   -0.138089
-Name: concentrated_disadvantage, dtype: float64","95    36.0
-Name: commute_time, dtype: float64","95    0.878419
-Name: cars_per_home, dtype: float64","95    82821.0
-Name: median_household_income, dtype: float64"
-102,102,AUI-10307,"10567 Mason Ave, Los Angeles, CA",34.261771,-118.5798527,91311,6037113101,"85   -0.717431
-Name: concentrated_disadvantage, dtype: float64","85    34.0
-Name: commute_time, dtype: float64","85    1.387407
-Name: cars_per_home, dtype: float64","85    105781.0
-Name: median_household_income, dtype: float64"
-103,103,AUI-10387,"5350 San Vicente Blvd, Los Angeles, CA",34.0525027,-118.3512399,90019,6037217100,"645   -0.333103
-Name: concentrated_disadvantage, dtype: float64","645    30.0
-Name: commute_time, dtype: float64","645    0.232977
-Name: cars_per_home, dtype: float64","645    64298.0
-Name: median_household_income, dtype: float64"
-104,104,AUI-10294,"1143 S Beverly Dr, Los Angeles, CA",34.0565394,-118.39647820000002,90035,6037269100,"872   -0.301292
-Name: concentrated_disadvantage, dtype: float64","872    22.0
-Name: commute_time, dtype: float64","872    0.170145
-Name: cars_per_home, dtype: float64","872    86039.0
-Name: median_household_income, dtype: float64"
-105,105,AUI-10292,"664 S Central Ave, Los Angeles, CA",34.0372306,-118.2405573,90021,6037206300,"536    2.512187
-Name: concentrated_disadvantage, dtype: float64","536    39.0
-Name: commute_time, dtype: float64","536    0.045127
-Name: cars_per_home, dtype: float64","536    10294.0
-Name: median_household_income, dtype: float64"
-106,106,AUI-10295,"5931 W 18th St, Los Angeles, CA",34.0438008,-118.37153290000002,90035,6037216700,"640    0.555525
-Name: concentrated_disadvantage, dtype: float64","640    28.0
-Name: commute_time, dtype: float64","640    0.212486
-Name: cars_per_home, dtype: float64","640    69750.0
-Name: median_household_income, dtype: float64"
-107,107,AUI-10296,"6299 W 87th St, Los Angeles, CA",33.9585605,-118.3947537,90045,6037278001,"935   -0.240646
-Name: concentrated_disadvantage, dtype: float64","935    26.0
-Name: commute_time, dtype: float64","935    0.827692
-Name: cars_per_home, dtype: float64","935    98523.0
-Name: median_household_income, dtype: float64"
-108,108,AUI-10290,"1398 S Orange Grove Ave, Los Angeles, CA",34.05147410000001,-118.3655228,90019,6037216900,"642    0.026991
-Name: concentrated_disadvantage, dtype: float64","642    27.0
-Name: commute_time, dtype: float64","642    0.128368
-Name: cars_per_home, dtype: float64","642    69968.0
-Name: median_household_income, dtype: float64"
-109,109,AUI-10318,"2442 Marengo St, Los Angeles, CA",34.0539241,-118.20177,90033,6037203200,"508    0.293662
-Name: concentrated_disadvantage, dtype: float64","508    32.0
-Name: commute_time, dtype: float64","508    0.487996
-Name: cars_per_home, dtype: float64","508    46699.0
-Name: median_household_income, dtype: float64"
-110,110,AUI-10319,"10108 Mason Avenue, Los Angeles, CA",34.254166999999995,-118.579712,91311,6037113322,"99   -0.757289
-Name: concentrated_disadvantage, dtype: float64","99    33.0
-Name: commute_time, dtype: float64","99    1.006631
-Name: cars_per_home, dtype: float64","99    93795.0
-Name: median_household_income, dtype: float64"
-111,111,AUI-10316,"3022 S Grand Ave, Los Angeles, CA",34.0226929,-118.274234,90007,6037224600,"699    1.120469
-Name: concentrated_disadvantage, dtype: float64","699    32.0
-Name: commute_time, dtype: float64","699    0.295409
-Name: cars_per_home, dtype: float64","699    40600.0
-Name: median_household_income, dtype: float64"
-112,112,AUI-10281,"3000 W Slauson Ave, Los Angeles, CA",33.988735299999995,-118.3256819,90043,6037234700,"752    0.283248
-Name: concentrated_disadvantage, dtype: float64","752    44.0
-Name: commute_time, dtype: float64","752    0.40913
-Name: cars_per_home, dtype: float64","752    38776.0
-Name: median_household_income, dtype: float64"
-113,113,AUI-10324,"11009 S Figueroa St, Los Angeles, CA",33.935441600000004,-118.28295690000002,90044,6037241202,"813    1.354783
-Name: concentrated_disadvantage, dtype: float64","813    37.0
-Name: commute_time, dtype: float64","813    0.664082
-Name: cars_per_home, dtype: float64","813    40596.0
-Name: median_household_income, dtype: float64"
-114,114,AUI-10323,"1033 W Pacific Coast Hwy, Los Angeles, CA",33.7906825,-118.2762558,90744-4522,6037294301,"954   -1.231281
-Name: concentrated_disadvantage, dtype: float64","954    23.0
-Name: commute_time, dtype: float64","954    1.15724
-Name: cars_per_home, dtype: float64","954    65897.0
-Name: median_household_income, dtype: float64"
-115,115,AUI-10311,"5160 Vineland Avenue, Los Angeles, CA",34.1641232,-118.3696155,91601,6037125501,"211    0.225928
-Name: concentrated_disadvantage, dtype: float64","211    33.0
-Name: commute_time, dtype: float64","211    0.266286
-Name: cars_per_home, dtype: float64","211    47227.0
-Name: median_household_income, dtype: float64"
-116,116,AUI-10299,"11410 Burbank Blvd, Los Angeles, CA",34.17184829999999,-118.3797377,91601,6037125200,"206    0.691485
-Name: concentrated_disadvantage, dtype: float64","206    33.0
-Name: commute_time, dtype: float64","206    0.222522
-Name: cars_per_home, dtype: float64","206    64219.0
-Name: median_household_income, dtype: float64"
-117,117,AUI-10320,"21365 Erwin St, Los Angeles, CA",34.182931,-118.59696,91367,6037134905,"294    0.248015
-Name: concentrated_disadvantage, dtype: float64","294    31.0
-Name: commute_time, dtype: float64","294    0.14022
-Name: cars_per_home, dtype: float64","294    79985.0
-Name: median_household_income, dtype: float64"
-118,118,AUI-10325,"8201 Tampa Avenue, Los Angeles, CA",34.219355,-118.553673,91306-1630,6037131600,"254   -0.37606
-Name: concentrated_disadvantage, dtype: float64","254    33.0
-Name: commute_time, dtype: float64","254    1.205443
-Name: cars_per_home, dtype: float64","254    68214.0
-Name: median_household_income, dtype: float64"
-119,119,AUI-10306,"6007 Variel Ave, Los Angeles, CA",34.179943200000004,-118.5933178,91365,6037134905,"294    0.248015
-Name: concentrated_disadvantage, dtype: float64","294    31.0
-Name: commute_time, dtype: float64","294    0.14022
-Name: cars_per_home, dtype: float64","294    79985.0
-Name: median_household_income, dtype: float64"
-120,120,AUI-10356,"7647 Canoga Avenue, Los Angeles, CA",34.209773,-118.5984299,91304,6037134306,"280   -0.039206
-Name: concentrated_disadvantage, dtype: float64","280    31.0
-Name: commute_time, dtype: float64","280    0.437386
-Name: cars_per_home, dtype: float64","280    73516.0
-Name: median_household_income, dtype: float64"
-121,121,AUI-10338,"3845 Selig Pl, Los Angeles, CA",34.0685547,-118.1989767,90031,6037199120,"486    1.300611
-Name: concentrated_disadvantage, dtype: float64","486    36.0
-Name: commute_time, dtype: float64","486    0.48918
-Name: cars_per_home, dtype: float64","486    35776.0
-Name: median_household_income, dtype: float64"
-122,122,AUI-10348,"10215 Palms Blvd, Los Angeles, CA",34.0272776,-118.4069342,90034,6037269907,"883   -0.180413
-Name: concentrated_disadvantage, dtype: float64","883    30.0
-Name: commute_time, dtype: float64","883    0.187061
-Name: cars_per_home, dtype: float64","883    68068.0
-Name: median_household_income, dtype: float64"
-123,123,AUI-10342,"9418 National Blvd, Los Angeles, CA",34.0310983,-118.396575,90034,6037269800,"878   -0.036258
-Name: concentrated_disadvantage, dtype: float64","878    28.0
-Name: commute_time, dtype: float64","878    0.151703
-Name: cars_per_home, dtype: float64","878    77778.0
-Name: median_household_income, dtype: float64"
-124,124,AUI-10297,"13308 Paxton St, Los Angeles, CA",34.276106,-118.422684,91331,6037104320,"23    0.326498
-Name: concentrated_disadvantage, dtype: float64","23    28.0
-Name: commute_time, dtype: float64","23    0.907611
-Name: cars_per_home, dtype: float64","23    52895.0
-Name: median_household_income, dtype: float64"
-125,125,AUI-10303,"1499 Gordon St, Los Angeles, CA",34.097803000000006,-118.320168,90028,6037190902,"425    0.139302
-Name: concentrated_disadvantage, dtype: float64","425    33.0
-Name: commute_time, dtype: float64","425    0.218305
-Name: cars_per_home, dtype: float64","425    35787.0
-Name: median_household_income, dtype: float64"
-126,126,AUI-10305,"3211 Beverly Blvd, Los Angeles, CA",34.072617,-118.283315,90057,6037208610,"554    0.870414
-Name: concentrated_disadvantage, dtype: float64","554    36.0
-Name: commute_time, dtype: float64","554    0.361365
-Name: cars_per_home, dtype: float64","554    46797.0
-Name: median_household_income, dtype: float64"
-127,127,AUI-10300,"3215 Beverly Blvd, Los Angeles, CA",34.072713,-118.283534,90057,6037208610,"554    0.870414
-Name: concentrated_disadvantage, dtype: float64","554    36.0
-Name: commute_time, dtype: float64","554    0.361365
-Name: cars_per_home, dtype: float64","554    46797.0
-Name: median_household_income, dtype: float64"
-128,128,AUI-10301,"256 S Lafayette Park Pl, Los Angeles, CA",34.0675494,-118.2796614,90057,6037208620,"555    0.556988
-Name: concentrated_disadvantage, dtype: float64","555    32.0
-Name: commute_time, dtype: float64","555    0.178147
-Name: cars_per_home, dtype: float64","555    39865.0
-Name: median_household_income, dtype: float64"
-129,129,AUI-10327,"948 E Vernon Ave, Los Angeles, CA",34.0037883,-118.2591613,90011,6037228600,"716    1.365468
-Name: concentrated_disadvantage, dtype: float64","716    36.0
-Name: commute_time, dtype: float64","716    0.725949
-Name: cars_per_home, dtype: float64","716    42308.0
-Name: median_household_income, dtype: float64"
-130,130,AUI-10332,"923 E 3rd St, Los Angeles, CA",34.0463078,-118.2341624,90013,6037206031,"532   -0.853608
-Name: concentrated_disadvantage, dtype: float64","532    29.0
-Name: commute_time, dtype: float64","532    0.169868
-Name: cars_per_home, dtype: float64","532    90590.0
-Name: median_household_income, dtype: float64"
-131,131,AUI-10350,"9850 Exposition Blvd, Los Angeles, CA",34.0288099,-118.4027129,90034,6037270100,"884   -0.644194
-Name: concentrated_disadvantage, dtype: float64","884    25.0
-Name: commute_time, dtype: float64","884    0.219259
-Name: cars_per_home, dtype: float64","884    66071.0
-Name: median_household_income, dtype: float64"
-132,132,AUI-10346,"1757 S Robertson Blvd, Los Angeles, CA",34.04769829999999,-118.3860416,90035-4232,6037217001,"643   -0.260544
-Name: concentrated_disadvantage, dtype: float64","643    24.0
-Name: commute_time, dtype: float64","643    0.235216
-Name: cars_per_home, dtype: float64","643    93083.0
-Name: median_household_income, dtype: float64"
-133,133,AUI-10360,"2411 N Thomas Street, Los Angeles, CA",34.0740651,-118.2053002,90031,6037199202,"488    0.070368
-Name: concentrated_disadvantage, dtype: float64","488    31.0
-Name: commute_time, dtype: float64","488    0.660121
-Name: cars_per_home, dtype: float64","488    56875.0
-Name: median_household_income, dtype: float64"
-134,134,AUI-10334,"176 S Virgil Ave, Los Angeles, CA",34.0712476,-118.28635,90004,6037211121,"578   -0.347592
-Name: concentrated_disadvantage, dtype: float64","578    29.0
-Name: commute_time, dtype: float64","578    0.173101
-Name: cars_per_home, dtype: float64","578    53750.0
-Name: median_household_income, dtype: float64"
-135,135,AUI-10304,"3619 Regal Pl, Los Angeles, CA",34.13395,-118.3632699,90068,6037143700,"349   -0.291016
-Name: concentrated_disadvantage, dtype: float64","349    32.0
-Name: commute_time, dtype: float64","349    0.426957
-Name: cars_per_home, dtype: float64","349    106818.0
-Name: median_household_income, dtype: float64"
-136,136,AUI-10370,"18744 Parthenia St, Los Angeles, CA",34.2278025,-118.5420773,91324,6037115404,"112   -0.435556
-Name: concentrated_disadvantage, dtype: float64","112    26.0
-Name: commute_time, dtype: float64","112    0.89318
-Name: cars_per_home, dtype: float64","112    63659.0
-Name: median_household_income, dtype: float64"
-137,137,AUI-10343,"21021 Devonshire St, Los Angeles, CA",34.2574949,-118.5916991,91311,6037113101,"85   -0.717431
-Name: concentrated_disadvantage, dtype: float64","85    34.0
-Name: commute_time, dtype: float64","85    1.387407
-Name: cars_per_home, dtype: float64","85    105781.0
-Name: median_household_income, dtype: float64"
-138,138,AUI-10368,"6945 Sepulveda Blvd, Los Angeles, CA",33.9742777,-118.394348,90045,6037277000,"931   -0.807381
-Name: concentrated_disadvantage, dtype: float64","931    30.0
-Name: commute_time, dtype: float64","931    0.680158
-Name: cars_per_home, dtype: float64","931    138542.0
-Name: median_household_income, dtype: float64"
-139,139,AUI-10354,"838 S Barrington Ave, Los Angeles, CA",34.0544555,-118.466163,90049,6037264103,"841    0.563986
-Name: concentrated_disadvantage, dtype: float64","841    26.0
-Name: commute_time, dtype: float64","841    0.020579
-Name: cars_per_home, dtype: float64","841    100160.0
-Name: median_household_income, dtype: float64"
-140,140,AUI-10375,"4294 Coldwater Canyon Ave, Los Angeles, CA",34.1479032,-118.4135263,91604,6037143500,"345    0.204317
-Name: concentrated_disadvantage, dtype: float64","345    33.0
-Name: commute_time, dtype: float64","345    0.283655
-Name: cars_per_home, dtype: float64","345    91563.0
-Name: median_household_income, dtype: float64"
-141,141,AUI-10380,"4319 Whitsett Ave, Los Angeles, CA",34.14920499999999,-118.4054894,91604,6037143500,"345    0.204317
-Name: concentrated_disadvantage, dtype: float64","345    33.0
-Name: commute_time, dtype: float64","345    0.283655
-Name: cars_per_home, dtype: float64","345    91563.0
-Name: median_household_income, dtype: float64"
-142,142,AUI-10373,"15450 Plummer St, Los Angeles, CA",34.2423921,-118.4691955,91343,6037117201,"115   -0.033218
-Name: concentrated_disadvantage, dtype: float64","115    28.0
-Name: commute_time, dtype: float64","115    0.690757
-Name: cars_per_home, dtype: float64","115    55750.0
-Name: median_household_income, dtype: float64"
-143,143,AUI-10349,"11175 Glenoaks Blvd, Los Angeles, CA",34.273071400000006,-118.4114497,91331-2536,6037104701,"30    1.938079
-Name: concentrated_disadvantage, dtype: float64","30    30.0
-Name: commute_time, dtype: float64","30    0.474374
-Name: cars_per_home, dtype: float64","30    32036.0
-Name: median_household_income, dtype: float64"
-144,144,AUI-10347,"9776 S Sepulveda Blvd, Los Angeles, CA",33.9474756,-118.3957034,90045-5802,6037980028,"2339   NaN
-Name: concentrated_disadvantage, dtype: float64","2339   NaN
-Name: commute_time, dtype: float64","2339   NaN
-Name: cars_per_home, dtype: float64","2339   NaN
-Name: median_household_income, dtype: float64"
-145,145,AUI-10355,"8932 Woodman Ave, Los Angeles, CA",34.232175700000006,-118.4378409,91331-6020,6037119800,"138   -0.670732
-Name: concentrated_disadvantage, dtype: float64","138    31.0
-Name: commute_time, dtype: float64","138    1.531561
-Name: cars_per_home, dtype: float64","138    74906.0
-Name: median_household_income, dtype: float64"
-146,146,AUI-10351,"17415 Vanowen St, Los Angeles, CA",34.19388989999999,-118.5124217,91406,6037132001,"259   -0.185717
-Name: concentrated_disadvantage, dtype: float64","259    28.0
-Name: commute_time, dtype: float64","259    0.89487
-Name: cars_per_home, dtype: float64","259    75000.0
-Name: median_household_income, dtype: float64"
-147,147,AUI-10341,"4349 E Valley Blvd, Los Angeles, CA",34.063514,-118.19118,90032,6037201402,"500    0.136664
-Name: concentrated_disadvantage, dtype: float64","500    33.0
-Name: commute_time, dtype: float64","500    1.225187
-Name: cars_per_home, dtype: float64","500    56698.0
-Name: median_household_income, dtype: float64"
-148,148,AUI-10337,"1751 Westwood Blvd, Los Angeles, CA",34.051089399999995,-118.4385126,90024-3990,6037265520,"854   -0.08872
-Name: concentrated_disadvantage, dtype: float64","854    26.0
-Name: commute_time, dtype: float64","854    0.243616
-Name: cars_per_home, dtype: float64","854    102708.0
-Name: median_household_income, dtype: float64"
-149,149,AUI-10378,"6959 Esplanade St, Los Angeles, CA",33.958586700000005,-118.4492361,90293,6037278102,"936   -0.687364
-Name: concentrated_disadvantage, dtype: float64","936    31.0
-Name: commute_time, dtype: float64","936    0.450385
-Name: cars_per_home, dtype: float64","936    138456.0
-Name: median_household_income, dtype: float64"
-150,150,AUI-10366,"1248 Westwood Blvd, Los Angeles, CA",34.05788870000001,-118.4431004,90024,6037265510,"853    0.846642
-Name: concentrated_disadvantage, dtype: float64","853    22.0
-Name: commute_time, dtype: float64","853    0.051834
-Name: cars_per_home, dtype: float64","853    52917.0
-Name: median_household_income, dtype: float64"
-151,151,AUI-10336,"4839 Laurel Canyon Blvd, Los Angeles, CA",34.15887379999999,-118.3968676,91607,6037124000,"190    0.462544
-Name: concentrated_disadvantage, dtype: float64","190    28.0
-Name: commute_time, dtype: float64","190    0.541054
-Name: cars_per_home, dtype: float64","190    84201.0
-Name: median_household_income, dtype: float64"
-152,152,AUI-10376,"7428 S Sepulveda Blvd, Los Angeles, CA",33.9731993,-118.3948075,90045,6037277000,"931   -0.807381
-Name: concentrated_disadvantage, dtype: float64","931    30.0
-Name: commute_time, dtype: float64","931    0.680158
-Name: cars_per_home, dtype: float64","931    138542.0
-Name: median_household_income, dtype: float64"
-153,153,AUI-10382,"10654 W Magnolia Blvd, Los Angeles, CA",34.1648054,-118.36349640000002,91601,6037125501,"211    0.225928
-Name: concentrated_disadvantage, dtype: float64","211    33.0
-Name: commute_time, dtype: float64","211    0.266286
-Name: cars_per_home, dtype: float64","211    47227.0
-Name: median_household_income, dtype: float64"
-154,154,AUI-10364,"6040 Jefferson Blvd, Los Angeles, CA",34.02042369999999,-118.380283,90016,6037702502,"2140   -0.234216
-Name: concentrated_disadvantage, dtype: float64","2140    29.0
-Name: commute_time, dtype: float64","2140    0.376088
-Name: cars_per_home, dtype: float64","2140    86081.0
-Name: median_household_income, dtype: float64"
-155,155,AUI-10389,"5263 Packard, Los Angeles, CA",34.0507581,-118.3511493,90019,6037217100,"645   -0.333103
-Name: concentrated_disadvantage, dtype: float64","645    30.0
-Name: commute_time, dtype: float64","645    0.232977
-Name: cars_per_home, dtype: float64","645    64298.0
-Name: median_household_income, dtype: float64"
-156,156,AUI-10388,"9818 Reseda Blvd, Los Angeles, CA",34.249297,-118.535973,91324-2036,6037115201,"106   -0.25163
-Name: concentrated_disadvantage, dtype: float64","106    25.0
-Name: commute_time, dtype: float64","106    0.594953
-Name: cars_per_home, dtype: float64","106    63768.0
-Name: median_household_income, dtype: float64"
-157,157,AUI-10363,"8800 S Hoover St, Los Angeles, CA",33.9572904,-118.2863728,90044,6037240300,"800    1.365298
-Name: concentrated_disadvantage, dtype: float64","800    34.0
-Name: commute_time, dtype: float64","800    0.353313
-Name: cars_per_home, dtype: float64","800    24368.0
-Name: median_household_income, dtype: float64"
-158,158,AUI-10390,"9889 Beachy Ave, Los Angeles, CA",34.251165,-118.4415257,91331,6037119201,"129    0.044073
-Name: concentrated_disadvantage, dtype: float64","129    30.0
-Name: commute_time, dtype: float64","129    1.827957
-Name: cars_per_home, dtype: float64","129    74012.0
-Name: median_household_income, dtype: float64"
-159,159,AUI-10385,"10645 Glenoaks Blvd, Los Angeles, CA",34.262751,-118.40008,91331,6037104704,"32    0.521508
-Name: concentrated_disadvantage, dtype: float64","32    33.0
-Name: commute_time, dtype: float64","32    1.102643
-Name: cars_per_home, dtype: float64","32    48581.0
-Name: median_household_income, dtype: float64"
-160,160,AUI-10377,"2044 Reservoir St, Los Angeles, CA",34.07873,-118.262088,90026,6037195600,"468   -0.114368
-Name: concentrated_disadvantage, dtype: float64","468    31.0
-Name: commute_time, dtype: float64","468    0.35598
-Name: cars_per_home, dtype: float64","468    70870.0
-Name: median_household_income, dtype: float64"
-161,161,AUI-10352,"7178 Tujunga Ave, Los Angeles, CA",34.200786,-118.37893400000002,91605-5738,6037123010,"169    0.214681
-Name: concentrated_disadvantage, dtype: float64","169    34.0
-Name: commute_time, dtype: float64","169    0.663074
-Name: cars_per_home, dtype: float64","169    32768.0
-Name: median_household_income, dtype: float64"
-162,162,AUI-10383,"11169 Weddington St, Los Angeles, CA",34.1670008,-118.3748155,91601,6037125320,"208    0.205898
-Name: concentrated_disadvantage, dtype: float64","208    29.0
-Name: commute_time, dtype: float64","208    0.209302
-Name: cars_per_home, dtype: float64","208    34681.0
-Name: median_household_income, dtype: float64"
-163,163,AUI-10367,"5441 E Valley Blvd, Los Angeles, CA",34.074090000000005,-118.164775,90032,6037201602,"505    0.451171
-Name: concentrated_disadvantage, dtype: float64","505    33.0
-Name: commute_time, dtype: float64","505    1.082192
-Name: cars_per_home, dtype: float64","505    59853.0
-Name: median_household_income, dtype: float64"
-164,164,AUI-10365,"8935 Mason Ave, Los Angeles, CA",34.23246719999999,-118.5798093,91311,6037113421,"101    0.212492
-Name: concentrated_disadvantage, dtype: float64","101    29.0
-Name: commute_time, dtype: float64","101    0.530176
-Name: cars_per_home, dtype: float64","101    61228.0
-Name: median_household_income, dtype: float64"
-165,165,AUI-10379,"10949 Huston St, Los Angeles, CA",34.15992720000001,-118.3697512,91601,6037125501,"211    0.225928
-Name: concentrated_disadvantage, dtype: float64","211    33.0
-Name: commute_time, dtype: float64","211    0.266286
-Name: cars_per_home, dtype: float64","211    47227.0
-Name: median_household_income, dtype: float64"
-166,166,AUI-10391,"10517 San Fernando Rd, Los Angeles, CA",34.26105,-118.417258,91331-2536,6037104610,"28    0.207864
-Name: concentrated_disadvantage, dtype: float64","28    29.0
-Name: commute_time, dtype: float64","28    1.333003
-Name: cars_per_home, dtype: float64","28    60320.0
-Name: median_household_income, dtype: float64"
-167,167,AUI-10381,"11185 Hindry Ave, Los Angeles, CA",33.9333653,-118.37237240000002,90045,6037980028,"2339   NaN
-Name: concentrated_disadvantage, dtype: float64","2339   NaN
-Name: commute_time, dtype: float64","2339   NaN
-Name: cars_per_home, dtype: float64","2339   NaN
-Name: median_household_income, dtype: float64"
-168,168,AUI-10357,"10634 Valparaiso St, Los Angeles, CA",34.0296115,-118.4149102,90034,6037269904,"880   -0.183334
-Name: concentrated_disadvantage, dtype: float64","880    24.0
-Name: commute_time, dtype: float64","880    0.02045
-Name: cars_per_home, dtype: float64","880    68865.0
-Name: median_household_income, dtype: float64"
-169,169,AUI-10340,"4240 Fulton Ave, Los Angeles, CA",34.1478861,-118.4222236,91604,6037143902,"352   -0.591581
-Name: concentrated_disadvantage, dtype: float64","352    32.0
-Name: commute_time, dtype: float64","352    0.514377
-Name: cars_per_home, dtype: float64","352    120781.0
-Name: median_household_income, dtype: float64"
-170,170,AUI-10344,"4236 Longridge Ave, Los Angeles, CA",34.1474861,-118.42091440000002,91604,6037143902,"352   -0.591581
-Name: concentrated_disadvantage, dtype: float64","352    32.0
-Name: commute_time, dtype: float64","352    0.514377
-Name: cars_per_home, dtype: float64","352    120781.0
-Name: median_household_income, dtype: float64"
-171,171,AUI-10384,"7123 Tampa Ave, Los Angeles, CA",34.1998776,-118.5537878,91335,6037133000,"268    0.012265
-Name: concentrated_disadvantage, dtype: float64","268    34.0
-Name: commute_time, dtype: float64","268    1.047619
-Name: cars_per_home, dtype: float64","268    67782.0
-Name: median_household_income, dtype: float64"
-172,172,AUI-10358,"13214 Moorpark St, Los Angeles, CA",34.1500812,-118.4208748,91423,6037143500,"345    0.204317
-Name: concentrated_disadvantage, dtype: float64","345    33.0
-Name: commute_time, dtype: float64","345    0.283655
-Name: cars_per_home, dtype: float64","345    91563.0
-Name: median_household_income, dtype: float64"
-173,173,AUI-10361,"11048 Huston St, Los Angeles, CA",34.1601042,-118.3711679,91602,6037125401,"209   -0.045153
-Name: concentrated_disadvantage, dtype: float64","209    37.0
-Name: commute_time, dtype: float64","209    0.201858
-Name: cars_per_home, dtype: float64","209    59824.0
-Name: median_household_income, dtype: float64"
-174,174,AUI-10362,"998 S Hobart Blvd, Los Angeles, CA",34.05281000000001,-118.30517,90005,6037213201,"616    0.8854
-Name: concentrated_disadvantage, dtype: float64","616    34.0
-Name: commute_time, dtype: float64","616    0.165455
-Name: cars_per_home, dtype: float64","616    30335.0
-Name: median_household_income, dtype: float64"
-175,175,AUI-10359,"10919 S Figueroa St, Los Angeles, CA",33.9368695,-118.282841,90061,6037241202,"813    1.354783
-Name: concentrated_disadvantage, dtype: float64","813    37.0
-Name: commute_time, dtype: float64","813    0.664082
-Name: cars_per_home, dtype: float64","813    40596.0
-Name: median_household_income, dtype: float64"
-176,176,AUI-10261,"729 N North Spring St, Los Angeles, CA",34.06047,-118.237689,90012,6037207102,"538    0.386534
-Name: concentrated_disadvantage, dtype: float64","538    29.0
-Name: commute_time, dtype: float64","538    0.077403
-Name: cars_per_home, dtype: float64","538    26327.0
-Name: median_household_income, dtype: float64"
+0,0,AUI-10372,"2316 W Martin Luther King Jr Blvd, Los Angeles, CA",34.0107197,-118.3188814,90008,6037234000,0.14936149341820282,34.0,0.6428571428571429,56708.0
+1,1,AUI-10263,"1231 S Hill St, Los Angeles, CA",34.0385137,-118.26189,90015-3018,6037207900,-0.11658215953072175,29.0,0.09440389294403892,88800.0
+2,2,AUI-10254,"942 S Crocker St, Los Angeles, CA",34.0351995,-118.2499719,90021,6037226002,1.2070649167533478,32.0,0.06715328467153285,27632.0
+3,3,AUI-10265,"5764 S Vermont Ave, Los Angeles, CA",33.9897875,-118.2911317,90037,6037232700,1.199626960631544,35.0,0.8459743290548425,37067.0
+4,4,AUI-10218,"7150 N Shoup Ave, Los Angeles, CA",34.200029,-118.614541,91303,6037134303,-0.20162546254290606,31.0,0.9828042328042328,88526.0
+5,5,AUI-10241,"20771 W Sherman Way, Los Angeles, CA",34.2011999,-118.4531985,91401-2649,6037127220,0.8919442752393832,33.0,0.3154499151103565,40665.0
+6,6,AUI-10201,"145 E Olympic Blvd, Los Angeles, CA",34.0401526,-118.2564209,90015,6037207900,-0.11658215953072175,29.0,0.09440389294403892,88800.0
+7,7,AUI-10226,"1222 S Grand Ave, Los Angeles, CA",34.03928270000001,-118.2635887,90015,6037207900,-0.11658215953072175,29.0,0.09440389294403892,88800.0
+8,8,AUI-10212,"1676 N Hobart Blvd, Los Angeles, CA",34.1013974,-118.3056538,90029-3737,6037190520,0.7261335421745508,30.0,0.14107883817427386,35938.0
+9,9,AUI-10244,"5617 N Laurel Canyon Blvd, Los Angeles, CA",34.2259818,-118.3978384,91352,6037121010,-0.015167129043062609,35.0,1.0874617737003058,64135.0
+10,10,AUI-10259,"4977 N Genesta Ave, Los Angeles, CA",34.16129300000001,-118.503322,91316-3402,6037139600,-0.21685336307918915,36.0,0.4140256237356709,79023.0
+11,11,AUI-10228,"4882 N Libbit Ave, Los Angeles, CA",34.1580375,-118.48802179999998,91436,6037139701,-1.11512109762523,34.0,0.9671266233766234,144337.0
+12,12,AUI-10345,"5093 Alonzo Ave, Los Angeles, CA",34.16253270000001,-118.520257,91316,6037139502,-0.03980811934271061,36.0,0.6287425149700598,69048.0
+13,13,AUI-10248,"20217 Prairie St, Los Angeles, CA",34.2392059,-118.5733855,91311,6037113303,-0.4087095810901445,29.0,0.9339320076972418,83971.0
+14,14,AUI-10328,"25825 Normandie Ave, Los Angeles, CA",33.7893434,-118.2974987,90710-2805,6037294421,1.0846576622651585,21.0,0.4646596858638744,41117.0
+15,15,AUI-10237,"25820 S Western Ave, Los Angeles, CA",33.78875120000001,-118.3074043,90717,6037293307,0.02024501695331549,28.0,0.4516129032258064,50735.0
+16,16,AUI-10214,"1557 W 19th St, Los Angeles, CA",33.7270625,-118.3105717,90732,6037297000,-0.4836514204085857,28.0,0.4578866768759571,100982.0
+17,17,AUI-10262,"12412 W Moorpark St, Los Angeles, CA",34.150277,-118.403516,91604,6037143500,0.20431671504928,33.0,0.28365515365787325,91563.0
+18,18,AUI-10224,"23743 W Roscoe Blvd, Los Angeles, CA",34.219302899999995,-118.644998,91304,6037113231,-0.7485972682927924,33.0,1.0059523809523812,105208.0
+19,19,AUI-10269,"17729 Chatsworth Ave, Los Angeles, CA",34.265103700000004,-118.5208745,91344,6037111202,-0.6047326909669981,30.0,1.0986629783310282,80521.0
+20,20,AUI-10205,"6710 Platt Ave, Los Angeles, CA",34.1925151,-118.6425347,91307,6037135203,-0.7237261917025528,37.0,1.1070823449678076,115519.0
+21,21,AUI-10255,"290 N Mission Road, Los Angeles, CA",34.0506258,-118.2270707,90033,6037206032,0.5212263191176763,33.0,0.19892302819132088,35706.0
+22,22,AUI-10268,"17832 Plummer Street, Los Angeles, CA",34.2428198,-118.5227509,91330-8449,6037115104,0.3449804003639989,28.0,0.41302381670183896,51094.0
+23,23,AUI-10257,"20321 W Saticoy St, Los Angeles, CA",34.208268100000005,-118.4721919,91406,6037127300,-0.41475426297063417,38.0,0.48407357559443703,53476.0
+24,24,AUI-10274,"651 W 1st, Los Angeles, CA",33.78102020000001,-118.2694377,90744,6037294810,0.5559683187670635,25.0,0.6330425299890948,46667.0
+25,25,AUI-10245,"9200 Venice Blvd, Los Angeles, CA",34.0263805,-118.3933239,90034-4000,6037270100,-0.6441939144680285,25.0,0.21925925925925926,66071.0
+26,26,AUI-10216,"4712 W Washington Blvd, Los Angeles, CA",34.0395664,-118.3420489,90016,6037218600,0.3149594656292617,33.0,0.4385057471264368,56167.0
+27,27,AUI-10273,"13310 W Bluff Creek Dr, Los Angeles, CA",33.9681023,-118.4262923,90293,6037275602,-0.4970074237269682,28.0,0.15254237288135594,129643.0
+28,28,AUI-10270,"9037 Loyola Blvd, Los Angeles, CA",33.957465899999995,-118.4177188,90045,6037276604,-0.2311365422853817,29.0,0.034581383255330216,82182.0
+29,29,AUI-10232,"1724 W Century Blvd, Los Angeles, CA",33.9453286,-118.3073544,90047,6037238000,0.953107954550142,37.0,0.3865704424223407,63970.0
+30,30,AUI-10256,"8843 S St Andrews Pl, Los Angeles, CA",33.9573684,-118.3116296,90047,6037238400,0.9004643733281146,30.0,0.5211102423768569,51420.0
+31,31,AUI-10230,"8923 S Western Ave, Los Angeles, CA",33.9556072,-118.3092868,90047,6037238400,0.9004643733281146,30.0,0.5211102423768569,51420.0
+32,32,AUI-10234,"3145 S Vermont Ave, Los Angeles, CA",34.0262389,-118.291681,90089,6037221900,2.297692875224299,25.0,0.16132723112128147,12319.0
+33,33,AUI-10240,"3540 W 3rd St, Los Angeles, CA",34.0687591,-118.2931096,90020,6037211921,-0.5171093414614294,31.0,0.06976744186046513,33407.0
+34,34,AUI-10239,"19054 N Kittridge St, Los Angeles, CA",34.1902212,-118.5485848,91335,6037132502,1.040382780783061,30.0,0.66864490603363,59917.0
+35,35,AUI-10225,"23385 W Burbank Blvd, Los Angeles, CA",34.1722467,-118.6443485,91367,6037137302,-0.9905119131580892,32.0,0.8640939597315436,134971.0
+36,36,AUI-10223,"18401-18435 Kittridge St, Los Angeles, CA",34.1902425,-118.5335015,91335,6037132700,-0.7044693106375564,32.0,0.5041758241758242,68553.0
+37,37,AUI-10203,"6813 N Hayvenhurst Ave, Los Angeles, CA",34.166923,-118.4923732,91436,6037980024,-1.501105554626723,29.0,1.5315315315315314,124038.0
+38,38,AUI-10202,"6013 W Cadillac Ave, Los Angeles, CA",34.037672,-118.37471399999998,90034,6037270300,-0.2463759603111226,26.0,0.4799123447772096,73375.0
+39,39,AUI-10253,"587 S Hobart Blvd, Los Angeles, CA",34.0638047,-118.3055059,90006,6037211802,-0.589325738104732,29.0,0.07488653555219364,40625.0
+40,40,AUI-10215,"609 W Alpine St, Los Angeles, CA",34.063369,-118.241175,90012,6037207103,1.1038277491155806,26.0,0.14941892639734367,27292.0
+41,41,AUI-10219,"6438 N Fulton Ave, Los Angeles, CA",34.18744,-118.422412,91401,6037123520,0.228808348148288,32.0,0.4917444364680546,53098.0
+42,42,AUI-10242,"1109 South La Brea Ave, Los Angeles, CA",34.054634,-118.343996,90019,6037216200,-0.27290515916284985,29.0,0.4138225255972696,95707.0
+43,43,AUI-10272,"7614 N Louise Ave, Los Angeles, CA",34.2088705,-118.5096412,91406,6037131100,-0.6718182125058576,37.0,1.1561144839549002,68553.0
+44,44,AUI-10260,"9866 N De Soto Ave, Los Angeles, CA",34.249545,-118.5883922,91311,6037113303,-0.4087095810901445,29.0,0.9339320076972418,83971.0
+45,45,AUI-10258,"11118 S Main St, Los Angeles, CA",33.93414600000001,-118.2737655,90061,6037241110,0.577653087530587,33.0,0.930662557781202,43182.0
+46,46,AUI-10222,"3840 S Western Ave, Los Angeles, CA",34.016127000000004,-118.30875690000002,90062,6037231300,0.9672183390850408,36.0,0.5108502312344362,46767.0
+47,47,AUI-10209,"11730 National Blvd, Los Angeles, CA",34.02189370000001,-118.4394675,90064,6037271500,-0.6801385183148879,27.0,0.3283365570599613,94330.0
+48,48,AUI-10210,"11667 W Santa Monica Blvd, Los Angeles, CA",34.044141,-118.455429,90025,6037267501,-0.41848338864588797,23.0,0.15417428397318708,79531.0
+49,49,AUI-10213,"10478 W Wilshire Blvd, Los Angeles, CA",34.0647503,-118.4310256,90024-2613,6037265700,-0.13545418108149193,24.0,0.16342308717675286,80685.0
+50,50,AUI-10211,"8334 Lincoln Blvd, Los Angeles, CA",33.9618772,-118.4208079,90293,6037276500,-0.3139732620950295,16.0,0.7008032128514057,88500.0
+51,51,AUI-10221,"12159 W Olympic Blvd, Los Angeles, CA",34.032711,-118.4550231,90064,6037267600,-0.2269326466996304,25.0,0.5138416707139388,76250.0
+52,52,AUI-10217,"6646 W Sunset Blvd, Los Angeles, CA",34.0978525,-118.3348393,90028,6037190700,0.7202629706033878,29.0,0.007514088916718849,37300.0
+53,53,AUI-10208,"12237 W Santa Monica Blvd, Los Angeles, CA",34.04001179999999,-118.46559340000002,90025,6037267402,-0.18617374086861452,26.0,0.27626774847870184,74748.0
+54,54,AUI-10271,"11816 W Major St, Los Angeles, CA",33.984934,-118.4002577,90230,6037275603,-0.6579395693054257,30.0,0.6680208937899014,79313.0
+55,55,AUI-10252,"11677 San Vicente Blvd, Los Angeles, CA",34.054247100000005,-118.4651397,90049,6037264103,0.5639856442316036,26.0,0.020579268292682928,100160.0
+56,56,AUI-10250,"8624 S Wilton Pl, Los Angeles, CA",33.9591244,-118.314752,90047,6037238400,0.9004643733281146,30.0,0.5211102423768569,51420.0
+57,57,AUI-10246,"1516 N North Spring St, Los Angeles, CA",34.06782860000001,-118.2305633,90012,6037206010,1.265594417263398,32.0,0.555210643015521,38734.0
+58,58,AUI-10220,"616 W Washington Blvd, Los Angeles, CA",34.0347482,-118.2737356,90015,6037224020,0.8416320273321998,34.0,0.042238648363252376,26493.0
+59,59,AUI-10243,"13076 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,0.8919442752393832,33.0,0.3154499151103565,40665.0
+60,60,AUI-10204,"2843 S Flower St, Los Angeles, CA",34.0262014,-118.2760072,90007,6037224700,2.052654847241659,18.0,0.28955696202531644,10802.0
+61,61,AUI-10200,"182 S Alameda St, Los Angeles, CA",34.047486,-118.2378968,90012,6037206031,-0.8536082280395552,29.0,0.1698677974557246,90590.0
+62,62,AUI-10227,"19135 W Victory Blvd, Los Angeles, CA",34.186682,-118.549965,91335,6037133100,-0.537881267169334,34.0,0.4957772912105098,51417.0
+63,63,AUI-10235,"12387 W Osborne St, Los Angeles, CA",34.2609217,-118.4031581,91331,6037104704,0.5215081807051171,33.0,1.102642901044868,48581.0
+64,64,AUI-10206,"6765 W Foothill Blvd, Los Angeles, CA",34.2479199,-118.2792176,91042,6037101220,-0.13476839107873534,30.0,0.4241851676901275,41728.0
+65,65,AUI-10266,"12518 W Oxnard St, Los Angeles, CA",34.180236,-118.5055565,91316,6037980024,-1.501105554626723,29.0,1.5315315315315314,124038.0
+66,66,AUI-10264,"12728 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,0.8919442752393832,33.0,0.3154499151103565,40665.0
+67,67,AUI-10229,"15596 W Roxford St, Los Angeles, CA",34.3116785,-118.47127240000002,91312,6037106510,-0.8361951370590566,37.0,0.9611111111111112,91983.0
+68,68,AUI-10247,"13194 W Sherman Way, Los Angeles, CA",34.2011905,-118.4515324,91405,6037127220,0.8919442752393832,33.0,0.3154499151103565,40665.0
+69,69,AUI-10251,"1348 Abbot Kinney Blvd, Los Angeles, CA",33.990557,-118.46648229999998,90291,6037273502,0.2050678044182633,31.0,0.17252173913043478,83304.0
+70,70,AUI-10267,"13629 W Sherman Way, Los Angeles, CA",34.2019429,-118.4512499,91401-2649,6037127220,0.8919442752393832,33.0,0.3154499151103565,40665.0
+71,71,AUI-10249,"3773 Motor Ave, Los Angeles, CA",34.02090310000001,-118.4045579,90034-5702,6037269903,0.17059053417553974,27.0,0.2174977057204038,59757.0
+72,72,AUI-10236,"840 Imperial Hwy, Los Angeles, CA",33.9308114,-118.2907242,90047-4899,6037241202,1.3547828404168265,37.0,0.6640816326530612,40596.0
+73,73,AUI-10233,"4121 Valley Blvd, Los Angeles, CA",34.06483,-118.194347,90032,6037201402,0.1366635032630607,33.0,1.2251867662753468,56698.0
+74,74,AUI-10231,"1862 Robertson Blvd, Los Angeles, CA",34.0452966,-118.3865051,90035-4232,6037269500,-0.96317497384883,24.0,0.6488651535380507,168224.0
+75,75,AUI-10238,"8931 Venice Blvd, Los Angeles, CA",34.0288024,-118.3898835,90034,6037270100,-0.6441939144680285,25.0,0.21925925925925926,66071.0
+76,76,AUI-10289,"4940 Paso Robles Ave, Los Angeles, CA",34.1609594,-118.5018593,91316-3402,6037139600,-0.21685336307918915,36.0,0.4140256237356709,79023.0
+77,77,AUI-10285,"10928 W Pico Blvd, Los Angeles, CA",34.03898820000001,-118.4303435,90064,6037267800,-0.4460177468933856,22.0,0.17993920972644378,73049.0
+78,78,AUI-10291,"4647 Marmion Way, Los Angeles, CA",34.099644399999995,-118.2054051,90042,6037185100,0.008000886339455247,35.0,0.8802568218298555,101103.0
+79,79,AUI-10293,"7224 Valjean Ave, Los Angeles, CA",34.2019408,-118.4857003,91406,6037127400,0.057101535699511735,29.0,0.6130622304374614,48193.0
+80,80,AUI-10280,"16501 Otsego St, Los Angeles, CA",34.162938200000006,-118.4926688,91436,6037139701,-1.11512109762523,34.0,0.9671266233766234,144337.0
+81,81,AUI-10277,"4424 Wesley Ave., Los Angeles, CA",34.0029364,-118.2876652,90037,6037232110,1.0203571970413574,37.0,0.3363994743758213,32266.0
+82,82,AUI-10279,"18235 South Figueroa St, Los Angeles, CA",33.8654075,-118.2819881,90248,6037291300,-1.072547828503879,31.0,1.0729646697388633,79034.0
+83,83,AUI-10284,"15321 S Figueroa St, Los Angeles, CA",33.8921709,-118.283233,90248,6037291210,0.5289360488229312,26.0,0.626465661641541,54297.0
+84,84,AUI-10283,"18401 Burbank Blvd, Los Angeles, CA",34.1720633,-118.5337705,91356,6037139401,-0.4558990901289856,34.0,0.16292848074481592,63048.0
+85,85,AUI-10286,"7245 Canoga Ave, Los Angeles, CA",34.202333,-118.597861,91303,6037134522,0.8556316318391715,30.0,0.2846832397754611,37003.0
+86,86,AUI-10326,"5962 San Vicente Blvd, Los Angeles, CA",34.0567988,-118.3615579,90019,6037216900,0.026990705669688503,27.0,0.1283684468397844,69968.0
+87,87,AUI-10315,"14901 Rinaldi street, Los Angeles, CA",34.2793651,-118.45746,91345,6037109100,-0.3109107531128028,28.0,1.3199588477366255,59792.0
+88,88,AUI-10282,"10455 W Magnolia Blvd, Los Angeles, CA",34.1651823,-118.3590241,91601,6037125310,0.30520341796600764,28.0,0.3247696174253002,53022.0
+89,89,AUI-10308,"3117 Temple St., Los Angeles, CA",34.075306,-118.280769,90004-3624,6037195802,-0.02596569494801809,32.0,0.5265405735204393,58981.0
+90,90,AUI-10314,"20124 Sherman Way, Los Angeles, CA",34.200408,-118.5718745,91371,6037134800,-0.7190652338073544,34.0,1.2710997442455243,80109.0
+91,91,AUI-10309,"8245 Winnetka Ave, Los Angeles, CA",34.2198591,-118.5713659,91306-1630,6037134103,-0.4327925636292579,30.0,0.8007747648035418,76250.0
+92,92,AUI-10288,"1747 S Barrington Ave, Los Angeles, CA",34.04013,-118.4534103,90025,6037267501,-0.41848338864588797,23.0,0.15417428397318708,79531.0
+93,93,AUI-10298,"10416 Irene St, Los Angeles, CA",34.029833700000005,-118.4116094,90034,6037269904,-0.18333397210273955,24.0,0.02044989775051125,68865.0
+94,94,AUI-10302,"722 Alameda St, Los Angeles, CA",34.032807899999995,-118.238363,90021,6037206031,-0.8536082280395552,29.0,0.1698677974557246,90590.0
+95,95,AUI-10287,"2900 S Sepulveda Blvd, Los Angeles, CA",34.028657700000004,-118.4290429,90064-1508,6037271702,-0.33943096658366073,26.0,0.18206278026905828,61063.0
+96,96,AUI-10321,"6510 Forest Lawn Drive, Los Angeles, CA",34.1463664,-118.33349309999998,91522,6037189701,-0.3995853256248037,32.0,0.3417235494880546,91451.0
+97,97,AUI-10322,"11320 Laurel Canyon Blvd, Los Angeles, CA",34.2760489,-118.4498162,91340,6037109500,-0.35597732884689004,27.0,1.0454237288135593,44118.0
+98,98,AUI-10317,"8309 Louise Ave, Los Angeles, CA",34.221544,-118.5102314,91325,6037115401,-0.6110583426372481,31.0,0.6174794173527549,61483.0
+99,99,AUI-10310,"7537 Balboa Blvd, Los Angeles, CA",34.207544,-118.501288,91406-5441,6037131900,-0.29484891846691164,30.0,0.965742251223491,75255.0
+100,100,AUI-10313,"18099 Rinaldi street, Los Angeles, CA",34.278644799999995,-118.5274194,91344-1701,6037108103,-1.5053941694703683,35.0,1.4207369323050556,159643.0
+101,101,AUI-10312,"21900 Plummer St, Los Angeles, CA",34.242412200000004,-118.6042211,91311,6037113237,-0.13808909592146046,36.0,0.878419452887538,82821.0
+102,102,AUI-10307,"10567 Mason Ave, Los Angeles, CA",34.261771,-118.5798527,91311,6037113101,-0.7174313498704399,34.0,1.3874074074074074,105781.0
+103,103,AUI-10387,"5350 San Vicente Blvd, Los Angeles, CA",34.0525027,-118.3512399,90019,6037217100,-0.3331028927439653,30.0,0.2329766536964981,64298.0
+104,104,AUI-10294,"1143 S Beverly Dr, Los Angeles, CA",34.0565394,-118.39647820000002,90035,6037269100,-0.3012923410869374,22.0,0.17014547754585704,86039.0
+105,105,AUI-10292,"664 S Central Ave, Los Angeles, CA",34.0372306,-118.2405573,90021,6037206300,2.512186714999324,39.0,0.04512672573665773,10294.0
+106,106,AUI-10295,"5931 W 18th St, Los Angeles, CA",34.0438008,-118.37153290000002,90035,6037216700,0.5555245369923483,28.0,0.212485896953742,69750.0
+107,107,AUI-10296,"6299 W 87th St, Los Angeles, CA",33.9585605,-118.3947537,90045,6037278001,-0.2406460141811469,26.0,0.8276923076923077,98523.0
+108,108,AUI-10290,"1398 S Orange Grove Ave, Los Angeles, CA",34.05147410000001,-118.3655228,90019,6037216900,0.026990705669688503,27.0,0.1283684468397844,69968.0
+109,109,AUI-10318,"2442 Marengo St, Los Angeles, CA",34.0539241,-118.20177,90033,6037203200,0.2936620612342583,32.0,0.4879963065558634,46699.0
+110,110,AUI-10319,"10108 Mason Avenue, Los Angeles, CA",34.254166999999995,-118.579712,91311,6037113322,-0.7572890436699573,33.0,1.0066305003013865,93795.0
+111,111,AUI-10316,"3022 S Grand Ave, Los Angeles, CA",34.0226929,-118.274234,90007,6037224600,1.120469412152214,32.0,0.2954091816367265,40600.0
+112,112,AUI-10281,"3000 W Slauson Ave, Los Angeles, CA",33.988735299999995,-118.3256819,90043,6037234700,0.28324760033398105,44.0,0.4091304347826087,38776.0
+113,113,AUI-10324,"11009 S Figueroa St, Los Angeles, CA",33.935441600000004,-118.28295690000002,90044,6037241202,1.3547828404168265,37.0,0.6640816326530612,40596.0
+114,114,AUI-10323,"1033 W Pacific Coast Hwy, Los Angeles, CA",33.7906825,-118.2762558,90744-4522,6037294301,-1.23128092961453,23.0,1.157239819004525,65897.0
+115,115,AUI-10311,"5160 Vineland Avenue, Los Angeles, CA",34.1641232,-118.3696155,91601,6037125501,0.2259276502635271,33.0,0.2662860980523841,47227.0
+116,116,AUI-10299,"11410 Burbank Blvd, Los Angeles, CA",34.17184829999999,-118.3797377,91601,6037125200,0.6914851015201463,33.0,0.22252217508677208,64219.0
+117,117,AUI-10320,"21365 Erwin St, Los Angeles, CA",34.182931,-118.59696,91367,6037134905,0.248015194038894,31.0,0.14021967749474176,79985.0
+118,118,AUI-10325,"8201 Tampa Avenue, Los Angeles, CA",34.219355,-118.553673,91306-1630,6037131600,-0.3760600701610416,33.0,1.2054429028815368,68214.0
+119,119,AUI-10306,"6007 Variel Ave, Los Angeles, CA",34.179943200000004,-118.5933178,91365,6037134905,0.248015194038894,31.0,0.14021967749474176,79985.0
+120,120,AUI-10356,"7647 Canoga Avenue, Los Angeles, CA",34.209773,-118.5984299,91304,6037134306,-0.03920638137072405,31.0,0.4373857404021938,73516.0
+121,121,AUI-10338,"3845 Selig Pl, Los Angeles, CA",34.0685547,-118.1989767,90031,6037199120,1.3006109661555765,36.0,0.4891796678409663,35776.0
+122,122,AUI-10348,"10215 Palms Blvd, Los Angeles, CA",34.0272776,-118.4069342,90034,6037269907,-0.1804128743449017,30.0,0.1870609981515712,68068.0
+123,123,AUI-10342,"9418 National Blvd, Los Angeles, CA",34.0310983,-118.396575,90034,6037269800,-0.036257563435130966,28.0,0.15170278637770898,77778.0
+124,124,AUI-10297,"13308 Paxton St, Los Angeles, CA",34.276106,-118.422684,91331,6037104320,0.3264982268978889,28.0,0.9076112972714218,52895.0
+125,125,AUI-10303,"1499 Gordon St, Los Angeles, CA",34.097803000000006,-118.320168,90028,6037190902,0.1393023675053559,33.0,0.2183050847457627,35787.0
+126,126,AUI-10305,"3211 Beverly Blvd, Los Angeles, CA",34.072617,-118.283315,90057,6037208610,0.8704144261233943,36.0,0.3613652357494722,46797.0
+127,127,AUI-10300,"3215 Beverly Blvd, Los Angeles, CA",34.072713,-118.283534,90057,6037208610,0.8704144261233943,36.0,0.3613652357494722,46797.0
+128,128,AUI-10301,"256 S Lafayette Park Pl, Los Angeles, CA",34.0675494,-118.2796614,90057,6037208620,0.5569878980301985,32.0,0.17814652473387602,39865.0
+129,129,AUI-10327,"948 E Vernon Ave, Los Angeles, CA",34.0037883,-118.2591613,90011,6037228600,1.3654675478181637,36.0,0.7259490379615184,42308.0
+130,130,AUI-10332,"923 E 3rd St, Los Angeles, CA",34.0463078,-118.2341624,90013,6037206031,-0.8536082280395552,29.0,0.1698677974557246,90590.0
+131,131,AUI-10350,"9850 Exposition Blvd, Los Angeles, CA",34.0288099,-118.4027129,90034,6037270100,-0.6441939144680285,25.0,0.21925925925925926,66071.0
+132,132,AUI-10346,"1757 S Robertson Blvd, Los Angeles, CA",34.04769829999999,-118.3860416,90035-4232,6037217001,-0.26054358970544,24.0,0.23521594684385386,93083.0
+133,133,AUI-10360,"2411 N Thomas Street, Los Angeles, CA",34.0740651,-118.2053002,90031,6037199202,0.0703683073159544,31.0,0.6601208459214502,56875.0
+134,134,AUI-10334,"176 S Virgil Ave, Los Angeles, CA",34.0712476,-118.28635,90004,6037211121,-0.3475924584299156,29.0,0.17310087173100872,53750.0
+135,135,AUI-10304,"3619 Regal Pl, Los Angeles, CA",34.13395,-118.3632699,90068,6037143700,-0.2910160422145928,32.0,0.4269568857262453,106818.0
+136,136,AUI-10370,"18744 Parthenia St, Los Angeles, CA",34.2278025,-118.5420773,91324,6037115404,-0.4355558626974941,26.0,0.8931799506984388,63659.0
+137,137,AUI-10343,"21021 Devonshire St, Los Angeles, CA",34.2574949,-118.5916991,91311,6037113101,-0.7174313498704399,34.0,1.3874074074074074,105781.0
+138,138,AUI-10368,"6945 Sepulveda Blvd, Los Angeles, CA",33.9742777,-118.394348,90045,6037277000,-0.8073810018076243,30.0,0.6801575931232091,138542.0
+139,139,AUI-10354,"838 S Barrington Ave, Los Angeles, CA",34.0544555,-118.466163,90049,6037264103,0.5639856442316036,26.0,0.020579268292682928,100160.0
+140,140,AUI-10375,"4294 Coldwater Canyon Ave, Los Angeles, CA",34.1479032,-118.4135263,91604,6037143500,0.20431671504928,33.0,0.28365515365787325,91563.0
+141,141,AUI-10380,"4319 Whitsett Ave, Los Angeles, CA",34.14920499999999,-118.4054894,91604,6037143500,0.20431671504928,33.0,0.28365515365787325,91563.0
+142,142,AUI-10373,"15450 Plummer St, Los Angeles, CA",34.2423921,-118.4691955,91343,6037117201,-0.03321839736943778,28.0,0.6907571288102261,55750.0
+143,143,AUI-10349,"11175 Glenoaks Blvd, Los Angeles, CA",34.273071400000006,-118.4114497,91331-2536,6037104701,1.938079067253172,30.0,0.4743742550655543,32036.0
+144,144,AUI-10347,"9776 S Sepulveda Blvd, Los Angeles, CA",33.9474756,-118.3957034,90045-5802,6037980028,,,,
+145,145,AUI-10355,"8932 Woodman Ave, Los Angeles, CA",34.232175700000006,-118.4378409,91331-6020,6037119800,-0.6707320278928619,31.0,1.53156146179402,74906.0
+146,146,AUI-10351,"17415 Vanowen St, Los Angeles, CA",34.19388989999999,-118.5124217,91406,6037132001,-0.18571689677585565,28.0,0.8948701709943002,75000.0
+147,147,AUI-10341,"4349 E Valley Blvd, Los Angeles, CA",34.063514,-118.19118,90032,6037201402,0.1366635032630607,33.0,1.2251867662753468,56698.0
+148,148,AUI-10337,"1751 Westwood Blvd, Los Angeles, CA",34.051089399999995,-118.4385126,90024-3990,6037265520,-0.08871967969028358,26.0,0.2436164669098489,102708.0
+149,149,AUI-10378,"6959 Esplanade St, Los Angeles, CA",33.958586700000005,-118.4492361,90293,6037278102,-0.6873638269221036,31.0,0.4503851381966471,138456.0
+150,150,AUI-10366,"1248 Westwood Blvd, Los Angeles, CA",34.05788870000001,-118.4431004,90024,6037265510,0.8466424879298937,22.0,0.05183431952662722,52917.0
+151,151,AUI-10336,"4839 Laurel Canyon Blvd, Los Angeles, CA",34.15887379999999,-118.3968676,91607,6037124000,0.4625438214769731,28.0,0.5410539215686274,84201.0
+152,152,AUI-10376,"7428 S Sepulveda Blvd, Los Angeles, CA",33.9731993,-118.3948075,90045,6037277000,-0.8073810018076243,30.0,0.6801575931232091,138542.0
+153,153,AUI-10382,"10654 W Magnolia Blvd, Los Angeles, CA",34.1648054,-118.36349640000002,91601,6037125501,0.2259276502635271,33.0,0.2662860980523841,47227.0
+154,154,AUI-10364,"6040 Jefferson Blvd, Los Angeles, CA",34.02042369999999,-118.380283,90016,6037702502,-0.23421623742125466,29.0,0.3760877790389709,86081.0
+155,155,AUI-10389,"5263 Packard, Los Angeles, CA",34.0507581,-118.3511493,90019,6037217100,-0.3331028927439653,30.0,0.2329766536964981,64298.0
+156,156,AUI-10388,"9818 Reseda Blvd, Los Angeles, CA",34.249297,-118.535973,91324-2036,6037115201,-0.251629561451947,25.0,0.5949529512403764,63768.0
+157,157,AUI-10363,"8800 S Hoover St, Los Angeles, CA",33.9572904,-118.2863728,90044,6037240300,1.3652978363496833,34.0,0.3533133533133533,24368.0
+158,158,AUI-10390,"9889 Beachy Ave, Los Angeles, CA",34.251165,-118.4415257,91331,6037119201,0.04407327882917717,30.0,1.827956989247312,74012.0
+159,159,AUI-10385,"10645 Glenoaks Blvd, Los Angeles, CA",34.262751,-118.40008,91331,6037104704,0.5215081807051171,33.0,1.102642901044868,48581.0
+160,160,AUI-10377,"2044 Reservoir St, Los Angeles, CA",34.07873,-118.262088,90026,6037195600,-0.11436779773384045,31.0,0.3559795253606329,70870.0
+161,161,AUI-10352,"7178 Tujunga Ave, Los Angeles, CA",34.200786,-118.37893400000002,91605-5738,6037123010,0.2146812127825626,34.0,0.6630743051616562,32768.0
+162,162,AUI-10383,"11169 Weddington St, Los Angeles, CA",34.1670008,-118.3748155,91601,6037125320,0.20589764669868554,29.0,0.20930232558139536,34681.0
+163,163,AUI-10367,"5441 E Valley Blvd, Los Angeles, CA",34.074090000000005,-118.164775,90032,6037201602,0.4511711570989905,33.0,1.082191780821918,59853.0
+164,164,AUI-10365,"8935 Mason Ave, Los Angeles, CA",34.23246719999999,-118.5798093,91311,6037113421,0.21249191805739687,29.0,0.5301759133964817,61228.0
+165,165,AUI-10379,"10949 Huston St, Los Angeles, CA",34.15992720000001,-118.3697512,91601,6037125501,0.2259276502635271,33.0,0.2662860980523841,47227.0
+166,166,AUI-10391,"10517 San Fernando Rd, Los Angeles, CA",34.26105,-118.417258,91331-2536,6037104610,0.20786368135872973,29.0,1.3330029732408326,60320.0
+167,167,AUI-10381,"11185 Hindry Ave, Los Angeles, CA",33.9333653,-118.37237240000002,90045,6037980028,,,,
+168,168,AUI-10357,"10634 Valparaiso St, Los Angeles, CA",34.0296115,-118.4149102,90034,6037269904,-0.18333397210273955,24.0,0.02044989775051125,68865.0
+169,169,AUI-10340,"4240 Fulton Ave, Los Angeles, CA",34.1478861,-118.4222236,91604,6037143902,-0.5915809556275726,32.0,0.5143769968051118,120781.0
+170,170,AUI-10344,"4236 Longridge Ave, Los Angeles, CA",34.1474861,-118.42091440000002,91604,6037143902,-0.5915809556275726,32.0,0.5143769968051118,120781.0
+171,171,AUI-10384,"7123 Tampa Ave, Los Angeles, CA",34.1998776,-118.5537878,91335,6037133000,0.01226493593819955,34.0,1.0476190476190477,67782.0
+172,172,AUI-10358,"13214 Moorpark St, Los Angeles, CA",34.1500812,-118.4208748,91423,6037143500,0.20431671504928,33.0,0.28365515365787325,91563.0
+173,173,AUI-10361,"11048 Huston St, Los Angeles, CA",34.1601042,-118.3711679,91602,6037125401,-0.045152853054788715,37.0,0.2018575851393189,59824.0
+174,174,AUI-10362,"998 S Hobart Blvd, Los Angeles, CA",34.05281000000001,-118.30517,90005,6037213201,0.8854001498041876,34.0,0.1654551748009692,30335.0
+175,175,AUI-10359,"10919 S Figueroa St, Los Angeles, CA",33.9368695,-118.282841,90061,6037241202,1.3547828404168265,37.0,0.6640816326530612,40596.0
+176,176,AUI-10261,"729 N North Spring St, Los Angeles, CA",34.06047,-118.237689,90012,6037207102,0.3865339685589967,29.0,0.07740324594257178,26327.0
