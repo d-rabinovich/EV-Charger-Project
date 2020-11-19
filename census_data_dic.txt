@@ -1,0 +1,289 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12637447
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2018 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2018 (5-Year Estimates)
+Tables:
+
+      1. Age (Short Version)
+         Universe:  Total Population
+         Name:      B01001
+         Variables:
+            B01001_001:   Total Population:
+            B01001_002:      Under 18 Years
+            B01001_003:      18 to 34 Years
+            B01001_004:      35 to 64 Years
+            B01001_005:      65 and Over
+
+
+      2. Households by Household Type
+         Universe:  Households
+         Name:      A10008
+         Variables:
+            A10008_001:   Households:
+            A10008_002:      Family Households:
+            A10008_003:         Married-Couple Family
+            A10008_004:         Other Family:
+            A10008_005:            Male Householder, No Wife Present
+            A10008_006:            Female Householder, No Husband Present
+            A10008_007:      Nonfamily Households:
+            A10008_008:         Male Householder
+            A10008_009:         Female Householder
+
+
+      3. Employment Status for Total Population 16 Years and Over
+         Universe:  Population 16 Years and Over
+         Name:      A17002
+         Variables:
+            A17002_001:   Population 16 Years and Over:
+            A17002_002:      In Labor Force:
+            A17002_003:         In Armed Forces
+            A17002_004:         Civilian:
+            A17002_005:            Employed
+            A17002_006:            Unemployed
+            A17002_007:      Not in Labor Force
+
+
+      4. Households with Public Assistance Income
+         Universe:  Households
+         Name:      A10014
+         Variables:
+            A10014_001:   Households:
+            A10014_002:      With Public Assistance Income
+            A10014_003:      No Public Assistance Income
+
+
+      5. Poverty Status in for Children Under 18
+         Universe:  Population Under 18 Years of Age for whom poverty status Is determined
+         Name:      A13003A
+         Variables:
+            A13003A_001:   Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+            A13003A_002:      Living in Poverty
+            A13003A_003:      At or Above Poverty Level
+
+
+      6. Poverty Status in for Population Age 18 to 64
+         Universe:  Population Age 18 to 64 for whom poverty status Is determined
+         Name:      A13003B
+         Variables:
+            A13003B_001:   Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+            A13003B_002:      Living in Poverty
+            A13003B_003:      At or Above Poverty Level
+
+
+      7. Poverty Status in for Population Age 65 and Over
+         Universe:  Population Age 65 and Over for whom poverty status Is determined
+         Name:      A13003C
+         Variables:
+            A13003C_001:   Population Age 65 and Over for Whom Poverty  Status Is Determined:
+            A13003C_002:      Living in Poverty
+            A13003C_003:      At or Above Poverty Level
+
+
+      8. Travel Time to Work for Workers 16 Years and Over
+         Universe:  Workers 16 Years and Over
+         Name:      A09001
+         Variables:
+            A09001_001:   Workers 16 Years and Over:
+            A09001_002:      Did Not Work At Home:
+            A09001_003:         Less than 10 Minutes
+            A09001_004:         10 to 19 Minutes
+            A09001_005:         20 to 29 Minutes
+            A09001_006:         30 to 39 Minutes
+            A09001_007:         40 to 59 Minutes
+            A09001_008:         60 to 89 Minutes
+            A09001_009:         90 or More Minutes
+            A09001_010:      Worked At Home
+
+
+      9. Average Commute to Work (In Min)
+         Universe:  Average Commute to Work (In min)
+         Name:      A09003
+         Variables:
+            A09003_001:   Average Commute to Work (In Min)
+
+
+      10. Housing Units by Vehicles Available
+          Universe:  Universe:  Occupied housing units
+          Name:      A10030
+          Variables:
+             A10030_001:   Occupied Housing Units:
+             A10030_002:      No Vehicle Available
+             A10030_003:      1 Vehicle Available
+             A10030_004:      2 Vehicles Available
+             A10030_005:      3 Vehicles Available
+             A10030_006:      4 Vehicles Available
+             A10030_007:      5 or More Vehicles Available
+
+
+      11. Vehicles Available (Renter-Occupied Housing Units)
+          Universe:  Universe:  Renter-Occupied Housing Units
+          Name:      A10054B
+          Variables:
+             A10054B_001:   Renter-Occupied Housing Units:
+             A10054B_002:      No Vehicle Available
+             A10054B_003:      1 Vehicle Available
+             A10054B_004:      2 Vehicles Available
+             A10054B_005:      3 Vehicles Available
+             A10054B_006:      4 Vehicles Available
+             A10054B_007:      5 or More Vehicles Available
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      B01001_001:     Total Population:
+      B01001_002:     Total Population: Under 18 Years
+      B01001_003:     Total Population: 18 to 34 Years
+      B01001_004:     Total Population: 35 to 64 Years
+      B01001_005:     Total Population: 65 and Over
+      A10008_001:     Households:
+      A10008_002:     Households: Family Households
+      A10008_003:     Households: Family Households: Married-Couple Family
+      A10008_004:     Households: Family Households: Other Family
+      A10008_005:     Households: Family Households: Other Family: Male Householder, No Wife Present
+      A10008_006:     Households: Family Households: Other Family: Female Householder, No Husband Present
+      A10008_007:     Households: Nonfamily Households
+      A10008_008:     Households: Nonfamily Households: Male Householder
+      A10008_009:     Households: Nonfamily Households: Female Householder
+      A17002_001:     Population 16 Years and Over:
+      A17002_002:     Population 16 Years and Over: in Labor Force
+      A17002_003:     Population 16 Years and Over: in Labor Force: in Armed Forces
+      A17002_004:     Population 16 Years and Over: in Labor Force: Civilian
+      A17002_005:     Population 16 Years and Over: in Labor Force: Civilian: Employed
+      A17002_006:     Population 16 Years and Over: in Labor Force: Civilian: Unemployed
+      A17002_007:     Population 16 Years and Over: Not in Labor Force
+      A10014_001:     Households:
+      A10014_002:     Households: with Public Assistance Income
+      A10014_003:     Households: No Public Assistance Income
+      A13003A_001:    Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+      A13003A_002:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: Living in Poverty
+      A13003A_003:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: At or Above Poverty Level
+      A13003B_001:    Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+      A13003B_002:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: Living in Poverty
+      A13003B_003:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: At or Above Poverty Level
+      A13003C_001:    Population Age 65 and Over for Whom Poverty  Status Is Determined:
+      A13003C_002:    Population Age 65 and Over for Whom Poverty  Status Is Determined: Living in Poverty
+      A13003C_003:    Population Age 65 and Over for Whom Poverty  Status Is Determined: At or Above Poverty Level
+      A09001_001:     Workers 16 Years and Over:
+      A09001_002:     Workers 16 Years and Over: Did Not Work At Home
+      A09001_003:     Workers 16 Years and Over: Did Not Work At Home: Less than 10 Minutes
+      A09001_004:     Workers 16 Years and Over: Did Not Work At Home: 10 to 19 Minutes
+      A09001_005:     Workers 16 Years and Over: Did Not Work At Home: 20 to 29 Minutes
+      A09001_006:     Workers 16 Years and Over: Did Not Work At Home: 30 to 39 Minutes
+      A09001_007:     Workers 16 Years and Over: Did Not Work At Home: 40 to 59 Minutes
+      A09001_008:     Workers 16 Years and Over: Did Not Work At Home: 60 to 89 Minutes
+      A09001_009:     Workers 16 Years and Over: Did Not Work At Home: 90 or More Minutes
+      A09001_010:     Workers 16 Years and Over: Worked At Home
+      A09003_001:     Average Commute to Work (In Min)
+      A10030_001:     Occupied Housing Units
+      A10030_002:     Occupied Housing Units: No Vehicle Available
+      A10030_003:     Occupied Housing Units: 1 Vehicle Available
+      A10030_004:     Occupied Housing Units: 2 Vehicles Available
+      A10030_005:     Occupied Housing Units: 3 Vehicles Available
+      A10030_006:     Occupied Housing Units: 4 Vehicles Available
+      A10030_007:     Occupied Housing Units: 5 or More Vehicles Available
+      A10054B_001:    Renter-Occupied Housing Units
+      A10054B_002:    Renter-Occupied Housing Units: No Vehicle Available
+      A10054B_003:    Renter-Occupied Housing Units: 1 Vehicle Available
+      A10054B_004:    Renter-Occupied Housing Units: 2 Vehicles Available
+      A10054B_005:    Renter-Occupied Housing Units: 3 Vehicles Available
+      A10054B_006:    Renter-Occupied Housing Units: 4 Vehicles Available
+      A10054B_007:    Renter-Occupied Housing Units: 5 or More Vehicles Available
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12637447
+
+If you have any questions contact info@socialexplorer.com
