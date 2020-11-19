@@ -1,0 +1,809 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12681555
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2018 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2018 (5-Year Estimates)
+Tables:
+
+      1. Population Density (Per Sq. Mile)
+         Universe:  Total Population
+         Name:      A00002
+         Variables:
+            A00002_001:   Total Population
+            A00002_002:   Population Density (Per Sq. Mile)
+            A00002_003:   Area (Land)
+
+
+      2. Land Area (Sq. Miles)
+         Universe:  Area Total
+         Name:      A00003
+         Variables:
+            A00003_001:   Area Total:
+            A00003_002:      Area (Land)
+            A00003_003:      Area (Water)
+
+
+      3. Age (Short Version)
+         Universe:  Total Population
+         Name:      B01001
+         Variables:
+            B01001_001:   Total Population:
+            B01001_002:      Under 18 Years
+            B01001_003:      18 to 34 Years
+            B01001_004:      35 to 64 Years
+            B01001_005:      65 and Over
+
+
+      4. Race
+         Universe:  Total Population
+         Name:      A03001
+         Variables:
+            A03001_001:   Total Population:
+            A03001_002:      White Alone
+            A03001_003:      Black or African American Alone
+            A03001_004:      American Indian and Alaska Native Alone
+            A03001_005:      Asian Alone
+            A03001_006:      Native Hawaiian and Other Pacific Islander Alone
+            A03001_007:      Some Other Race Alone
+            A03001_008:      Two or More Races
+
+
+      5. Households by Household Type
+         Universe:  Households
+         Name:      A10008
+         Variables:
+            A10008_001:   Households:
+            A10008_002:      Family Households:
+            A10008_003:         Married-Couple Family
+            A10008_004:         Other Family:
+            A10008_005:            Male Householder, No Wife Present
+            A10008_006:            Female Householder, No Husband Present
+            A10008_007:      Nonfamily Households:
+            A10008_008:         Male Householder
+            A10008_009:         Female Householder
+
+
+      6. Average Household Size
+         Universe:  Occupied Households
+         Name:      A10003
+         Variables:
+            A10003_001:   Average Household Size
+
+
+      7. Unmarried-Partner Households by Sex of Partners
+         Universe:  Households
+         Name:      A11002
+         Variables:
+            A11002_001:   Households
+            A11002_002:      Unmarried-Partner Households:
+            A11002_003:         Same Sex Partners:
+            A11002_004:            Male Householder and Male Partner
+            A11002_005:            Female Householder and Female Partner
+            A11002_006:         Opposite Sex Partners:
+            A11002_007:            Male Householder and Female Partner
+            A11002_008:            Female Householder and Male Partner
+            A11002_009:      All Other Households
+
+
+      8. Educational Attainment for Population 25 Years and Over
+         Universe:  Population 25 Years and Over
+         Name:      A12001
+         Variables:
+            A12001_001:   Population 25 Years and Over:
+            A12001_002:      Less than High School
+            A12001_003:      High School Graduate (Includes Equivalency)
+            A12001_004:      Some College
+            A12001_005:      Bachelor's Degree
+            A12001_006:      Master's Degree
+            A12001_007:      Professional School Degree
+            A12001_008:      Doctorate Degree
+
+
+      9. Educational Attainment for Population 25 Years and Over (Collapsed Version)
+         Universe:  Population 25 Years and Over
+         Name:      B12001
+         Variables:
+            B12001_001:   Population 25 Years and Over:
+            B12001_002:      Less than High School
+            B12001_003:      High School Diploma
+            B12001_004:      Bachelor's Degree or Better
+
+
+      10. Highest Educational Attainment for Population 25 Years and Over
+          Universe:  Population 25 Years and Over
+          Name:      A12002
+          Variables:
+             A12002_001:   Population 25 Years and Over:
+             A12002_002:      Less than High School
+             A12002_003:      High School Graduate or More (Includes Equivalency)
+             A12002_004:      Some College or More
+             A12002_005:      Bachelor's Degree or More
+             A12002_006:      Master's Degree or More
+             A12002_007:      Professional School Degree or More
+             A12002_008:      Doctorate Degree
+
+
+      11. Housing Units by Educational Attainment of Householder
+          Universe:  Universe:  Occupied housing units
+          Name:      A10021
+          Variables:
+             A10021_001:   Occupied Housing Units:
+             A10021_002:      Less than High School Graduate
+             A10021_003:      High School Graduate (Including Equivalency)
+             A10021_004:      Some College or Associate's Degree
+             A10021_005:      Bachelor's Degree or Higher
+
+
+      12. School Enrollment for the Population 3 Years and Over
+          Universe:  Population 3 Years and Over
+          Name:      A12004
+          Variables:
+             A12004_001:   Population 3 Years and Over:
+             A12004_002:      Enrolled in School
+             A12004_003:      Not Enrolled in School
+
+
+      13. School Dropout Rate for Population 16 to 19 Years
+          Universe:  Civilian Population 16 to 19 Years
+          Name:      A12003
+          Variables:
+             A12003_001:   Civilian Population 16 to 19 Years:
+             A12003_002:      Not High School Graduate, Not Enrolled (Dropped Out)
+             A12003_003:      High School Graduate, or Enrolled (In School)
+
+
+      14. Employment Status for Total Population 16 Years and Over
+          Universe:  Population 16 Years and Over
+          Name:      A17002
+          Variables:
+             A17002_001:   Population 16 Years and Over:
+             A17002_002:      In Labor Force:
+             A17002_003:         In Armed Forces
+             A17002_004:         Civilian:
+             A17002_005:            Employed
+             A17002_006:            Unemployed
+             A17002_007:      Not in Labor Force
+
+
+      15. Labor Force for Population 16 Years and Over
+          Universe:  In Labor Force 16 Years and Over:
+          Name:      A17001
+          Variables:
+             A17001_001:   In Labor Force 16 Years and Over:
+             A17001_002:      In Armed Forces
+             A17001_003:      Civilian
+
+
+      16. Unemployment Rate for Civilian Population in Labor Force 16 Years and Over
+          Universe:  Civilian Population in Labor Force 16 Years and Over:
+          Name:      A17005
+          Variables:
+             A17005_001:   Civilian Population in Labor Force 16 Years and Over:
+             A17005_002:      Employed
+             A17005_003:      Unemployed
+
+
+      17. Industry by Occupation for Employed Civilian Population 16 Years and Over
+          Universe:  Civilian employed population 16 years and Over
+          Name:      A17004
+          Variables:
+             A17004_001:   Total Employed Civilian Population 16 Years and Over:
+             A17004_002:      Agriculture, Forestry, Fishing and Hunting, and Mining
+             A17004_003:      Construction
+             A17004_004:      Manufacturing
+             A17004_005:      Wholesale Trade
+             A17004_006:      Retail Trade
+             A17004_007:      Transportation and Warehousing, and Utilities
+             A17004_008:      Information
+             A17004_009:      Finance and Insurance, and Real Estate and Rental  and Leasing
+             A17004_010:      Professional, Scientific, and Management, and  Administrative and Waste Management Services
+             A17004_011:      Educational Services, and Health Care and Social  Assistance
+             A17004_012:      Arts, Entertainment, and Recreation, and  Accommodation and Food Services
+             A17004_013:      Other Services, Except Public Administration
+             A17004_014:      Public Administration
+
+
+      18. Occupation for Employed Civilian Population 16 Years and Over
+          Universe:  Employed civilian Population 16 Years and Over
+          Name:      B17008
+          Variables:
+             B17008_001:   Employed Civilian Population 16 Years and Over:
+             B17008_002:      Management, Business, and Financial Operations  Occupations
+             B17008_003:      Professional and Related Occupations
+             B17008_004:      Healthcare Support Occupations
+             B17008_005:      Protective Service Occupations
+             B17008_006:      Food Preparation and Serving Related Occupations
+             B17008_007:      Building and Grounds Cleaning and Maintenance  Occupations
+             B17008_008:      Personal Care and Service Occupations
+             B17008_009:      Sales and Related Occupations
+             B17008_010:      Office and Administrative Support Occupations
+             B17008_011:      Farming, Fishing, and Forestry Occupations
+             B17008_012:      Construction, Extraction, and Maintenance  Occupations
+             B17008_013:      Production Occupations
+             B17008_014:      Transportation and Material Moving Occupations
+
+
+      19. Employment Sector for Employed Civilian Population 16 Years and Over
+          Universe:  Total Employed Civilian Population 16 Years and Over
+          Name:      A17009
+          Variables:
+             A17009_001:   Employed Civilian Population 16 Years and Over:
+             A17009_002:      Private Sector
+             A17009_003:      Public Sector
+             A17009_004:      Self-Employed (Incorporated and Not Incorporated)
+             A17009_005:      Private Non-Profit
+             A17009_006:      Unpaid Family Workers
+
+
+      20. Median Household Income (In <DollarYear> Inflation Adjusted Dollars)
+          Universe:  Households
+          Name:      A14006
+          Variables:
+             A14006_001:   Median Household Income (In 2018 Inflation Adjusted Dollars)
+
+
+      21. Households with Social Security Income
+          Universe:  Households
+          Name:      A10017
+          Variables:
+             A10017_001:   Households:
+             A10017_002:      With Social Security Income
+             A10017_003:      No Social Security Income
+
+
+      22. Households with Supplemental Security Income (Ssi)
+          Universe:  Households
+          Name:      A10018
+          Variables:
+             A10018_001:   Households:
+             A10018_002:      With Supplemental Security Income (Ssi)
+             A10018_003:      No Supplemental Security Income (Ssi)
+
+
+      23. Households with Public Assistance Income
+          Universe:  Households
+          Name:      A10014
+          Variables:
+             A10014_001:   Households:
+             A10014_002:      With Public Assistance Income
+             A10014_003:      No Public Assistance Income
+
+
+      24. Households with Retirement Income
+          Universe:  Households
+          Name:      A10015
+          Variables:
+             A10015_001:   Households:
+             A10015_002:      With Retirement Income
+             A10015_003:      No Retirement Income
+
+
+      25. Gini Index of Income Inequality
+          Universe:  Households
+          Name:      A14028
+          Variables:
+             A14028_001:   Gini Index
+
+
+      26. Occupancy Status
+          Universe:  Housing units
+          Name:      A10044
+          Variables:
+             A10044_001:   Housing Units:
+             A10044_002:      Occupied
+             A10044_003:      Vacant
+
+
+      27. Housing Units by Year Householder Moved Into Unit
+          Universe:  Universe:  Occupied housing units
+          Name:      A10031
+          Variables:
+             A10031_001:   Occupied Housing Units:
+             A10031_002:      Moved in 2017 or Later
+             A10031_003:      Moved in 2015 to 2016
+             A10031_004:      Moved in 2010 to 2014
+             A10031_005:      Moved in 2000 to 2009
+             A10031_006:      Moved in 1990 to 1999
+             A10031_007:      Moved in 1989 or Earlier
+
+
+      28. House Value for All Owner-Occupied Housing Units
+          Universe:  Owner-occupied housing units
+          Name:      A10035
+          Variables:
+             A10035_001:   Owner-Occupied Housing Units:
+             A10035_002:      Less than $20,000
+             A10035_003:      $20,000 to $49,999
+             A10035_004:      $50,000 to $99,999
+             A10035_005:      $100,000 to $149,999
+             A10035_006:      $150,000 to $299,999
+             A10035_007:      $300,000 to $499,999
+             A10035_008:      $500,000 to $749,999
+             A10035_009:      $750,000 to $999,999
+             A10035_010:      $1,000,000 or More
+
+
+      29. Median House Value for All Owner-Occupied Housing Units
+          Universe:  Owner-occupied housing units
+          Name:      A10036
+          Variables:
+             A10036_001:   Median Value
+
+
+      30. Residents Paying More Than 30% or at least 50% of Income on Rent
+          Universe:  Renter-Occupied Housing Units
+          Name:      B18002
+          Variables:
+             B18002_001:   Renter-Occupied Housing Units:
+             B18002_002:      30 to 49 Percent
+             B18002_003:      50 percent or More
+
+
+      31. Mortgage Status
+          Universe:  Owner-occupied housing units
+          Name:      A10041
+          Variables:
+             A10041_001:   Owner-Occupied Housing Units:
+             A10041_002:      Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts:
+             A10041_003:         With Either a Second Mortgage or Home Equity  Loan, but Not Both:
+             A10041_004:            Second Mortgage Only
+             A10041_005:            Home Equity Loan Only
+             A10041_006:         Both Second Mortgage and Home Equity Loan
+             A10041_007:         No Second Mortgage and No Home Equity Loan
+             A10041_008:      Housing Units Without a Mortgage
+
+
+      32. Poverty Status in for Children Under 18
+          Universe:  Population Under 18 Years of Age for whom poverty status Is determined
+          Name:      A13003A
+          Variables:
+             A13003A_001:   Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+             A13003A_002:      Living in Poverty
+             A13003A_003:      At or Above Poverty Level
+
+
+      33. Poverty Status in for Population Age 18 to 64
+          Universe:  Population Age 18 to 64 for whom poverty status Is determined
+          Name:      A13003B
+          Variables:
+             A13003B_001:   Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+             A13003B_002:      Living in Poverty
+             A13003B_003:      At or Above Poverty Level
+
+
+      34. Poverty Status in for Population Age 65 and Over
+          Universe:  Population Age 65 and Over for whom poverty status Is determined
+          Name:      A13003C
+          Variables:
+             A13003C_001:   Population Age 65 and Over for Whom Poverty  Status Is Determined:
+             A13003C_002:      Living in Poverty
+             A13003C_003:      At or Above Poverty Level
+
+
+      35. Ratio of Income in to Poverty Level
+          Universe:  Population for whom poverty status Is determined
+          Name:      A13004
+          Variables:
+             A13004_001:   Population for Whom Poverty Status Is Determined:
+             A13004_002:      Under .50
+             A13004_003:      .50 to .74
+             A13004_004:      .75 to .99
+             A13004_005:      1.00 to 1.49
+             A13004_006:      1.50 to 1.99
+             A13004_007:      2.00 and Over
+
+
+      36. Means of Transportation to Work for Workers 16 Years and Over
+          Universe:  Workers 16 Years and Over
+          Name:      A09005
+          Variables:
+             A09005_001:   Workers 16 Years and Over:
+             A09005_002:      Car, Truck, or Van
+             A09005_009:         Drove Alone
+             A09005_010:         Carpooled
+             A09005_003:      Public Transportation (Includes Taxicab)
+             A09005_004:      Motorcycle
+             A09005_005:      Bicycle
+             A09005_006:      Walked
+             A09005_007:      Other Means
+             A09005_008:      Worked At Home
+
+
+      37. Travel Time to Work for Workers 16 Years and Over
+          Universe:  Workers 16 Years and Over
+          Name:      A09001
+          Variables:
+             A09001_001:   Workers 16 Years and Over:
+             A09001_002:      Did Not Work At Home:
+             A09001_003:         Less than 10 Minutes
+             A09001_004:         10 to 19 Minutes
+             A09001_005:         20 to 29 Minutes
+             A09001_006:         30 to 39 Minutes
+             A09001_007:         40 to 59 Minutes
+             A09001_008:         60 to 89 Minutes
+             A09001_009:         90 or More Minutes
+             A09001_010:      Worked At Home
+
+
+      38. Average Commute to Work (In Min)
+          Universe:  Average Commute to Work (In min)
+          Name:      A09003
+          Variables:
+             A09003_001:   Average Commute to Work (In Min)
+
+
+      39. Housing Units by Vehicles Available
+          Universe:  Universe:  Occupied housing units
+          Name:      A10030
+          Variables:
+             A10030_001:   Occupied Housing Units:
+             A10030_002:      No Vehicle Available
+             A10030_003:      1 Vehicle Available
+             A10030_004:      2 Vehicles Available
+             A10030_005:      3 Vehicles Available
+             A10030_006:      4 Vehicles Available
+             A10030_007:      5 or More Vehicles Available
+
+
+      40. Vehicles Available (Renter-Occupied Housing Units)
+          Universe:  Universe:  Renter-Occupied Housing Units
+          Name:      A10054B
+          Variables:
+             A10054B_001:   Renter-Occupied Housing Units:
+             A10054B_002:      No Vehicle Available
+             A10054B_003:      1 Vehicle Available
+             A10054B_004:      2 Vehicles Available
+             A10054B_005:      3 Vehicles Available
+             A10054B_006:      4 Vehicles Available
+             A10054B_007:      5 or More Vehicles Available
+
+
+      41. Nonfamily Households
+          Universe:  Nonfamily Households
+          Name:      A10006
+          Variables:
+             A10006_001:   Nonfamily Households
+
+
+      42. Owner-Occupied Housing Units
+          Universe:  Owner-occupied housing units
+          Name:      A10045
+          Variables:
+             A10045_001:   Owner-Occupied Housing Units
+
+
+      43. Households with Housing Costs more than 30% of Income
+          Universe:  
+          Name:      A10064
+          Variables:
+             A10064_001:   Households:
+             A10064_002:      Households with Housing Costs more than 30% of Income
+
+
+      44. Children Living with Single Parents
+          Universe:  Own Children under 18 Years
+          Name:      A10065
+          Variables:
+             A10065_001:   Own Children under 18 Years:
+             A10065_002:      Children Living with Single Parents
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      A00002_001:     Total Population
+      A00002_002:     Population Density (Per Sq. Mile)
+      A00002_003:     Area (Land)
+      A00003_001:     Area Total:
+      A00003_002:     Area Total: Area (Land)
+      A00003_003:     Area Total: Area (Water)
+      B01001_001:     Total Population:
+      B01001_002:     Total Population: Under 18 Years
+      B01001_003:     Total Population: 18 to 34 Years
+      B01001_004:     Total Population: 35 to 64 Years
+      B01001_005:     Total Population: 65 and Over
+      A03001_001:     Total Population:
+      A03001_002:     Total Population: White Alone
+      A03001_003:     Total Population: Black or African American Alone
+      A03001_004:     Total Population: American Indian and Alaska Native Alone
+      A03001_005:     Total Population: Asian Alone
+      A03001_006:     Total Population: Native Hawaiian and Other Pacific Islander Alone
+      A03001_007:     Total Population: Some Other Race Alone
+      A03001_008:     Total Population: Two or More Races
+      A10008_001:     Households:
+      A10008_002:     Households: Family Households
+      A10008_003:     Households: Family Households: Married-Couple Family
+      A10008_004:     Households: Family Households: Other Family
+      A10008_005:     Households: Family Households: Other Family: Male Householder, No Wife Present
+      A10008_006:     Households: Family Households: Other Family: Female Householder, No Husband Present
+      A10008_007:     Households: Nonfamily Households
+      A10008_008:     Households: Nonfamily Households: Male Householder
+      A10008_009:     Households: Nonfamily Households: Female Householder
+      A10003_001:     Average Household Size
+      A11002_001:     Households
+      A11002_002:     Households: Unmarried-Partner Households
+      A11002_003:     Households: Unmarried-Partner Households: Same Sex Partners
+      A11002_004:     Households: Unmarried-Partner Households: Same Sex Partners: Male Householder and Male Partner
+      A11002_005:     Households: Unmarried-Partner Households: Same Sex Partners: Female Householder and Female Partner
+      A11002_006:     Households: Unmarried-Partner Households: Opposite Sex Partners
+      A11002_007:     Households: Unmarried-Partner Households: Opposite Sex Partners: Male Householder and Female Partner
+      A11002_008:     Households: Unmarried-Partner Households: Opposite Sex Partners: Female Householder and Male Partner
+      A11002_009:     Households: All Other Households
+      A12001_001:     Population 25 Years and Over:
+      A12001_002:     Population 25 Years and Over: Less than High School
+      A12001_003:     Population 25 Years and Over: High School Graduate (Includes Equivalency)
+      A12001_004:     Population 25 Years and Over: Some College
+      A12001_005:     Population 25 Years and Over: Bachelor's Degree
+      A12001_006:     Population 25 Years and Over: Master's Degree
+      A12001_007:     Population 25 Years and Over: Professional School Degree
+      A12001_008:     Population 25 Years and Over: Doctorate Degree
+      B12001_001:     Population 25 Years and Over
+      B12001_002:     Population 25 Years and Over: Less than High School
+      B12001_003:     Population 25 Years and Over: High School Diploma
+      B12001_004:     Population 25 Years and Over: Bachelor's Degree or Better
+      A12002_001:     Population 25 Years and Over:
+      A12002_002:     Population 25 Years and Over: Less than High School
+      A12002_003:     Population 25 Years and Over: High School Graduate or More (Includes Equivalency)
+      A12002_004:     Population 25 Years and Over: Some College or More
+      A12002_005:     Population 25 Years and Over: Bachelor's Degree or More
+      A12002_006:     Population 25 Years and Over: Master's Degree or More
+      A12002_007:     Population 25 Years and Over: Professional School Degree or More
+      A12002_008:     Population 25 Years and Over: Doctorate Degree
+      A10021_001:     Occupied Housing Units
+      A10021_002:     Occupied Housing Units: Less than High School Graduate
+      A10021_003:     Occupied Housing Units: High School Graduate (Including Equivalency)
+      A10021_004:     Occupied Housing Units: Some College or Associate's Degree
+      A10021_005:     Occupied Housing Units: Bachelor's Degree or Higher
+      A12004_001:     Population 3 Years and Over:
+      A12004_002:     Population 3 Years and Over: Enrolled in School
+      A12004_003:     Population 3 Years and Over: Not Enrolled in School
+      A12003_001:     Civilian Population 16 to 19 Years:
+      A12003_002:     Civilian Population 16 to 19 Years: Not High School Graduate, Not Enrolled (Dropped Out)
+      A12003_003:     Civilian Population 16 to 19 Years: High School Graduate, or Enrolled (In School)
+      A17002_001:     Population 16 Years and Over:
+      A17002_002:     Population 16 Years and Over: in Labor Force
+      A17002_003:     Population 16 Years and Over: in Labor Force: in Armed Forces
+      A17002_004:     Population 16 Years and Over: in Labor Force: Civilian
+      A17002_005:     Population 16 Years and Over: in Labor Force: Civilian: Employed
+      A17002_006:     Population 16 Years and Over: in Labor Force: Civilian: Unemployed
+      A17002_007:     Population 16 Years and Over: Not in Labor Force
+      A17001_001:     In Labor Force 16 Years and Over:
+      A17001_002:     In Labor Force 16 Years and Over: in Armed Forces
+      A17001_003:     In Labor Force 16 Years and Over: Civilian
+      A17005_001:     Civilian Population in Labor Force 16 Years and Over:
+      A17005_002:     Civilian Population in Labor Force 16 Years and Over: Employed
+      A17005_003:     Civilian Population in Labor Force 16 Years and Over: Unemployed
+      A17004_001:     Total Employed Civilian Population 16 Years and Over
+      A17004_002:     Employed Civilian Population 16 Years and Over: Agriculture, Forestry, Fishing and Hunting, and Mining
+      A17004_003:     Employed Civilian Population 16 Years and Over: Construction
+      A17004_004:     Employed Civilian Population 16 Years and Over: Manufacturing
+      A17004_005:     Employed Civilian Population 16 Years and Over: Wholesale Trade
+      A17004_006:     Employed Civilian Population 16 Years and Over: Retail Trade
+      A17004_007:     Employed Civilian Population 16 Years and Over: Transportation and Warehousing, and Utilities
+      A17004_008:     Employed Civilian Population 16 Years and Over: Information
+      A17004_009:     Employed Civilian Population 16 Years and Over: Finance and Insurance, and Real Estate and Rental  and Leasing
+      A17004_010:     Employed Civilian Population 16 Years and Over: Professional, Scientific, and Management, and  Administrative and Waste Management Services
+      A17004_011:     Employed Civilian Population 16 Years and Over: Educational Services, and Health Care and Social  Assistance
+      A17004_012:     Employed Civilian Population 16 Years and Over: Arts, Entertainment, and Recreation, and  Accommodation and Food Services
+      A17004_013:     Employed Civilian Population 16 Years and Over: Other Services, Except Public Administration
+      A17004_014:     Employed Civilian Population 16 Years and Over: Public Administration
+      B17008_001:     Employed Civilian Population 16 Years and Over:
+      B17008_002:     Employed Civilian Population 16 Years and Over: Management, Business, and Financial Operations  Occupations
+      B17008_003:     Employed Civilian Population 16 Years and Over: Professional and Related Occupations
+      B17008_004:     Employed Civilian Population 16 Years and Over: Healthcare Support Occupations
+      B17008_005:     Employed Civilian Population 16 Years and Over: Protective Service Occupations
+      B17008_006:     Employed Civilian Population 16 Years and Over: Food Preparation and Serving Related Occupations
+      B17008_007:     Employed Civilian Population 16 Years and Over: Building and Grounds Cleaning and Maintenance  Occupations
+      B17008_008:     Employed Civilian Population 16 Years and Over: Personal Care and Service Occupations
+      B17008_009:     Employed Civilian Population 16 Years and Over: Sales and Related Occupations
+      B17008_010:     Employed Civilian Population 16 Years and Over: Office and Administrative Support Occupations
+      B17008_011:     Employed Civilian Population 16 Years and Over: Farming, Fishing, and Forestry Occupations
+      B17008_012:     Employed Civilian Population 16 Years and Over: Construction, Extraction, and Maintenance  Occupations
+      B17008_013:     Employed Civilian Population 16 Years and Over: Production Occupations
+      B17008_014:     Employed Civilian Population 16 Years and Over: Transportation and Material Moving Occupations
+      A17009_001:     Employed Civilian Population 16 Years and Over:
+      A17009_002:     Employed Civilian Population 16 Years and Over: Private Sector
+      A17009_003:     Employed Civilian Population 16 Years and Over: Public Sector
+      A17009_004:     Employed Civilian Population 16 Years and Over: Self-Employed (Incorporated and Not Incorporated)
+      A17009_005:     Employed Civilian Population 16 Years and Over: Private Non-Profit
+      A17009_006:     Employed Civilian Population 16 Years and Over: Unpaid Family Workers
+      A14006_001:     Median Household Income (In 2018 Inflation Adjusted Dollars)
+      A10017_001:     Households:
+      A10017_002:     Households: with Social Security Income
+      A10017_003:     Households: No Social Security Income
+      A10018_001:     Households:
+      A10018_002:     Households: with Supplemental Security Income (Ssi)
+      A10018_003:     Households: No Supplemental Security Income (Ssi)
+      A10014_001:     Households:
+      A10014_002:     Households: with Public Assistance Income
+      A10014_003:     Households: No Public Assistance Income
+      A10015_001:     Households:
+      A10015_002:     Households: with Retirement Income
+      A10015_003:     Households: No Retirement Income
+      A14028_001:     Gini Index
+      A10044_001:     Housing Units:
+      A10044_002:     Housing Units: Occupied
+      A10044_003:     Housing Units: Vacant
+      A10031_001:     Occupied Housing Units
+      A10031_002:     Occupied Housing Units: Moved in 2017 or Later
+      A10031_003:     Occupied Housing Units: Moved in 2015 to 2016
+      A10031_004:     Occupied Housing Units: Moved in 2010 to 2014
+      A10031_005:     Occupied Housing Units: Moved in 2000 to 2009
+      A10031_006:     Occupied Housing Units: Moved in 1990 to 1999
+      A10031_007:     Occupied Housing Units: Moved in 1989 or Earlier
+      A10035_001:     Owner-Occupied Housing Units:
+      A10035_002:     Owner-Occupied Housing Units: Less than $20,000
+      A10035_003:     Owner-Occupied Housing Units: $20,000 to $49,999
+      A10035_004:     Owner-Occupied Housing Units: $50,000 to $99,999
+      A10035_005:     Owner-Occupied Housing Units: $100,000 to $149,999
+      A10035_006:     Owner-Occupied Housing Units: $150,000 to $299,999
+      A10035_007:     Owner-Occupied Housing Units: $300,000 to $499,999
+      A10035_008:     Owner-Occupied Housing Units: $500,000 to $749,999
+      A10035_009:     Owner-Occupied Housing Units: $750,000 to $999,999
+      A10035_010:     Owner-Occupied Housing Units: $1,000,000 or More
+      A10036_001:     Median Value
+      B18002_001:     Renter-Occupied Housing Units
+      B18002_002:     Renter-Occupied Housing Units: 30 to 49 Percent
+      B18002_003:     Renter-Occupied Housing Units: 50 percent or More
+      A10041_001:     Owner-Occupied Housing Units:
+      A10041_002:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts
+      A10041_003:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts: with Either a Second Mortgage or Home Equity  Loan, but Not Both
+      A10041_004:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts: with Either a Second Mortgage or Home Equity  Loan, but Not Both: Second Mortgage Only
+      A10041_005:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts: with Either a Second Mortgage or Home Equity  Loan, but Not Both: Home Equity Loan Only
+      A10041_006:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts: Both Second Mortgage and Home Equity Loan
+      A10041_007:     Owner-Occupied Housing Units: Housing Units with a Mortgage, Home Equity Loan,  or Similar Debts: No Second Mortgage and No Home Equity Loan
+      A10041_008:     Owner-Occupied Housing Units: Housing Units Without a Mortgage
+      A13003A_001:    Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+      A13003A_002:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: Living in Poverty
+      A13003A_003:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: At or Above Poverty Level
+      A13003B_001:    Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+      A13003B_002:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: Living in Poverty
+      A13003B_003:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: At or Above Poverty Level
+      A13003C_001:    Population Age 65 and Over for Whom Poverty  Status Is Determined:
+      A13003C_002:    Population Age 65 and Over for Whom Poverty  Status Is Determined: Living in Poverty
+      A13003C_003:    Population Age 65 and Over for Whom Poverty  Status Is Determined: At or Above Poverty Level
+      A13004_001:     Population for Whom Poverty Status Is Determined:
+      A13004_002:     Population for Whom Poverty Status Is Determined: Under .50
+      A13004_003:     Population for Whom Poverty Status Is Determined: .50 to .74
+      A13004_004:     Population for Whom Poverty Status Is Determined: .75 to .99
+      A13004_005:     Population for Whom Poverty Status Is Determined: 1.00 to 1.49
+      A13004_006:     Population for Whom Poverty Status Is Determined: 1.50 to 1.99
+      A13004_007:     Population for Whom Poverty Status Is Determined: 2.00 and Over
+      A09005_001:     Workers 16 Years and Over:
+      A09005_002:     Workers 16 Years and Over: Car, Truck, or Van
+      A09005_009:     Workers 16 Years and Over: Drove Alone
+      A09005_010:     Workers 16 Years and Over: Carpooled
+      A09005_003:     Workers 16 Years and Over: Public Transportation (Includes Taxicab)
+      A09005_004:     Workers 16 Years and Over: Motorcycle
+      A09005_005:     Workers 16 Years and Over: Bicycle
+      A09005_006:     Workers 16 Years and Over: Walked
+      A09005_007:     Workers 16 Years and Over: Other Means
+      A09005_008:     Workers 16 Years and Over: Worked At Home
+      A09001_001:     Workers 16 Years and Over:
+      A09001_002:     Workers 16 Years and Over: Did Not Work At Home
+      A09001_003:     Workers 16 Years and Over: Did Not Work At Home: Less than 10 Minutes
+      A09001_004:     Workers 16 Years and Over: Did Not Work At Home: 10 to 19 Minutes
+      A09001_005:     Workers 16 Years and Over: Did Not Work At Home: 20 to 29 Minutes
+      A09001_006:     Workers 16 Years and Over: Did Not Work At Home: 30 to 39 Minutes
+      A09001_007:     Workers 16 Years and Over: Did Not Work At Home: 40 to 59 Minutes
+      A09001_008:     Workers 16 Years and Over: Did Not Work At Home: 60 to 89 Minutes
+      A09001_009:     Workers 16 Years and Over: Did Not Work At Home: 90 or More Minutes
+      A09001_010:     Workers 16 Years and Over: Worked At Home
+      A09003_001:     Average Commute to Work (In Min)
+      A10030_001:     Occupied Housing Units
+      A10030_002:     Occupied Housing Units: No Vehicle Available
+      A10030_003:     Occupied Housing Units: 1 Vehicle Available
+      A10030_004:     Occupied Housing Units: 2 Vehicles Available
+      A10030_005:     Occupied Housing Units: 3 Vehicles Available
+      A10030_006:     Occupied Housing Units: 4 Vehicles Available
+      A10030_007:     Occupied Housing Units: 5 or More Vehicles Available
+      A10054B_001:    Renter-Occupied Housing Units
+      A10054B_002:    Renter-Occupied Housing Units: No Vehicle Available
+      A10054B_003:    Renter-Occupied Housing Units: 1 Vehicle Available
+      A10054B_004:    Renter-Occupied Housing Units: 2 Vehicles Available
+      A10054B_005:    Renter-Occupied Housing Units: 3 Vehicles Available
+      A10054B_006:    Renter-Occupied Housing Units: 4 Vehicles Available
+      A10054B_007:    Renter-Occupied Housing Units: 5 or More Vehicles Available
+      A10006_001:     Nonfamily Households
+      A10045_001:     Owner-Occupied Housing Units
+      A10064_001:     Households
+      A10064_002:     Households with Housing Costs more than 30% of Income
+      A10065_001:     Own Children under 18 Years
+      A10065_002:     Own Children under 18 Years: Children Living with Single Parents
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12681555
+
+If you have any questions contact info@socialexplorer.com
